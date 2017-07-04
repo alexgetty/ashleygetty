@@ -10,7 +10,7 @@
     background-size: cover;
     margin-bottom: 6rem;
     display: flex;
-    padding: 8rem;
+    padding: 4rem;
 
     &__wrapper {
         margin: auto;
@@ -27,6 +27,10 @@
         width: 26vw;
         max-width: 40rem;
         min-width: 18rem;
+
+        @include until-px(532px){
+            min-width: 16rem;
+        }
     }
 
     &__tagline {
@@ -45,7 +49,7 @@
     }
 
 
-    @include until(small){
+    @include until-px(800px){
         padding: 2rem;
     }
 }
