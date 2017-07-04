@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ashley Getty</title>
+    <description>Ashley Getty</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 04 Jul 2017 12:05:14 -0400</pubDate>
+    <lastBuildDate>Tue, 04 Jul 2017 12:05:14 -0400</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Invites</title>
+        <description>&lt;figure&gt;
+    &lt;img src=&quot;../img/invites-1.jpg&quot; alt=&quot;invites&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/invites-2.jpg&quot; alt=&quot;invites&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/invites-3.jpg&quot; alt=&quot;invites&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/invites-4.jpg&quot; alt=&quot;invites&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/invites-5.jpg&quot; alt=&quot;invites&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/invites-6.jpg&quot; alt=&quot;invites&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/invites-7.jpg&quot; alt=&quot;invites&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/invites-8.jpg&quot; alt=&quot;invites&quot; /&gt;
+&lt;/figure&gt;
+</description>
+        <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/invites</link>
+        <guid isPermaLink="true">http://localhost:4000/invites</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Illustration</title>
+        <description>&lt;figure&gt;
+    &lt;img src=&quot;../img/illustration-1.jpg&quot; alt=&quot;illustration&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/illustration-2.jpg&quot; alt=&quot;illustration&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/illustration-3.jpg&quot; alt=&quot;illustration&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/illustration-4.jpg&quot; alt=&quot;illustration&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/illustration-5.jpg&quot; alt=&quot;illustration&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/illustration-6.jpg&quot; alt=&quot;illustration&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/illustration-7.jpg&quot; alt=&quot;illustration&quot; /&gt;
+&lt;/figure&gt;
+</description>
+        <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/illustration</link>
+        <guid isPermaLink="true">http://localhost:4000/illustration</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hand Letter</title>
+        <description>&lt;figure&gt;
+    &lt;img src=&quot;../img/lettering-1.jpg&quot; alt=&quot;lettering&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/lettering-2.jpg&quot; alt=&quot;lettering&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/lettering-3.jpg&quot; alt=&quot;lettering&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/lettering-4.jpg&quot; alt=&quot;lettering&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/lettering-5.jpg&quot; alt=&quot;lettering&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/lettering-6.jpg&quot; alt=&quot;lettering&quot; /&gt;
+&lt;/figure&gt;
+</description>
+        <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/hand-letter</link>
+        <guid isPermaLink="true">http://localhost:4000/hand-letter</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Beer Labels</title>
+        <description>&lt;figure&gt;
+    &lt;img src=&quot;../img/beer-1.jpg&quot; alt=&quot;beer&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/beer-2.jpg&quot; alt=&quot;beer&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/beer-3.jpg&quot; alt=&quot;beer&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/beer-4.jpg&quot; alt=&quot;beer&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/beer-5.jpg&quot; alt=&quot;beer&quot; /&gt;
+&lt;/figure&gt;
+</description>
+        <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/beer-labels</link>
+        <guid isPermaLink="true">http://localhost:4000/beer-labels</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

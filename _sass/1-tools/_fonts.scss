@@ -1,0 +1,17 @@
+
+// UTILITIES / FONTS
+// -----------------------------------------------------------------------------
+
+
+// Font Family Getter Functions
+
+@function font($font: 'primary') {
+  @return map-get($_fonts, $font);
+}
+
+
+// Font Weight Getter Function
+
+@function weight($weight: 'regular') {
+  @return map-get($_weights, $weight);
+}

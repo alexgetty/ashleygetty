@@ -1,0 +1,45 @@
+---
+layout: default
+description: Ashley Getty's Portfolio
+keywords: Designer, Portfolio
+---
+
+<main role="main">
+    <header class="header" role="banner">
+        <div class="header__wrapper">
+            <h1 class="header__title">
+                <a href="{{site.baseurl}}/">
+                    <img class="header__image" src="img/name.png" alt="Ashley Getty" />
+                </a>
+            </h1>
+            <!--
+            <p class="header__tagline">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            </p>
+            -->
+            <ul class="header__social social">
+                <li class="social__item -instagram">
+                    <a class="underline" href="https://www.instagram.com/ashleymgetty/" target="_blank"></a>
+                </li>
+                <li class="social__item -facebook">
+                    <a class="underline" href="https://www.facebook.com/ashley.ziemer.5" target="_blank"></a>
+                </li>
+                <li class="social__item -email">
+                    <a class="underline" href="mailto:ashleymgetty@gmail.com" target="_blank" itemprop="email"></a>
+                </li>
+            </ul>
+        </div>
+    </header>
+
+    <ul class="grid">
+        {% for post in site.posts %}
+        <li class="grid__item">
+            <a class="project-thumbnail" href="{{ post.url }}" style="background-image: url('img/{{ post.coverImage }}')">
+                <div class="project-thumbnail__hover">
+                    <h2 class="project-thumbnail__title">{{ post.name }}</h2>
+                </div>
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+</main>

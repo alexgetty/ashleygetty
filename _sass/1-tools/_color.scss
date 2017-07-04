@@ -1,0 +1,17 @@
+
+// UTILITIES / COLOR
+// -----------------------------------------------------------------------------
+
+
+@function color($palette, $shade: 'base', $alpha: 1) {
+
+  // Solid Colors
+  @if $alpha == 1 {
+    @return map-get(map-get($_colors, $palette), $shade);
+  }
+
+  // Transparent Colors
+  @else {
+    @return rgba(map-get(map-get($_colors, $palette), $shade), $alpha);
+  }
+}

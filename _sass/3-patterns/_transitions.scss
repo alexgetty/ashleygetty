@@ -1,0 +1,12 @@
+
+// PATTERNS / TRANSITIONS
+// -----------------------------------------------------------------------------
+
+
+@mixin transition-hover(){
+  @include transition(all .16s ease-in-out);
+}
+
+@mixin transition-underline(){
+  @include transition(all .08s ease-in-out);
+}

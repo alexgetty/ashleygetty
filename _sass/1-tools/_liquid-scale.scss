@@ -1,0 +1,16 @@
+
+// PATTERNS / LIQUID SCALE
+// -----------------------------------------------------------------------------
+
+
+@mixin liquid-scale(){
+  font-size: #{$min-size}px;
+
+  @include from(medium){
+    font-size: calc(#{$min-size}px + (#{$max-size} - #{$min-size}) * ( (100vw - #{map-get($breakpoints, 'medium')}px) / ( #{map-get($breakpoints, 'large')} - #{map-get($breakpoints, 'medium')})));
+  }
+
+  @include from(large){
+    font-size: #{$max-size}px;
+  }
+}

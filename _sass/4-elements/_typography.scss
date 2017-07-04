@@ -1,0 +1,52 @@
+
+// ELEMENTS / TYPOGRAPHY
+// -----------------------------------------------------------------------------
+
+body {
+    font-family: font(secondary);
+    color: color(neutral, darkest);
+    line-height: 1.5;
+}
+
+h1 {
+    font-family: font(primary);
+    font-size: size(larger);
+    font-weight: weight(bold);
+    color: color(neutral, darkest);
+}
+
+h2 {
+    font-family: font(primary);
+    font-size: size(large);
+    font-weight: weight(bold);
+    color: color(neutral, darkest);
+    margin-bottom: 1em;
+}
+
+h3 {
+    font-family: font(primary);
+    font-size: size(regular);
+    font-weight: weight(bold);
+    color: color(neutral, darkest);
+}
+
+
+p {
+    font-size: size(regular);
+    margin: 0 auto 1.6em;
+    line-height: 1.4;
+}
+
+a {
+    @include transition-hover();
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+    font-size: size(small);
+    text-decoration: none;
+    color: color(neutral);
+    font-weight: weight(bold);
+
+    &:hover, &.--active {
+        color: darken(color(primary), 20%);
+    }
+}

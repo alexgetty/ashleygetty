@@ -1,0 +1,58 @@
+
+// UTILITIES / MODULAR SCALE
+// -----------------------------------------------------------------------------
+
+
+$_modular-scales: (
+  minor-second: 1.0666666667,
+  major-second: 1.13,
+  minor-third: 1.2,
+  major-third: 1.25,
+  perfect-fourth: 1.33,
+  aug-fourth: 1.41,
+  perfect-fifth: 1.5,
+  minor-sixth: 1.6,
+  golden-ratio: 1.618,
+  major-sixth: 1.67,
+  minor-seventh: 1.78,
+  major-seventh: 1.88,
+  octave: 2,
+  major-tenth: 2.5,
+  major-twelfth: 3,
+  double-octave: 4
+);
+
+@function scale($ratio){
+  @return map-get($_modular-scales, $ratio);
+}
+
+
+@function level($level: 0, $direction: 'up') {
+  @if $level == 0 {
+    @return 1rem;
+  } @else if $direction == 'up' {
+    @return pow($scale, $level) * 1rem;
+  } @else if $direction == 'down' {
+    @return 1 / pow($scale, $level) * 1rem;
+  }
+}
+
+@function size($level: regular) {
+  @if $level == 'smallest' {
+    @return level(3, down);
+  } @else if $level == 'smaller' {
+    @return level(2, down);
+  } @else if $level == 'small' {
+    @return level(1, down);
+  } @else if $level == 'regular' {
+    @return level(0);
+  } @else if $level == 'large' {
+    @return level(1);
+  } @else if $level == 'larger' {
+    @return level(2);
+  } @else if $level == 'largest' {
+    @return level(3);
+  } @else if $level == 'yuge' {
+    @return level(4);
+  }
+}

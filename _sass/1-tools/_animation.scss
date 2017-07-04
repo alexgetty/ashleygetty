@@ -1,0 +1,10 @@
+
+// UTILITIES / ANIMATION
+// -----------------------------------------------------------------------------
+
+
+@mixin animation($name, $duration: 1s, $timing: ease-in-out){
+  animation-name: $name;
+  animation-duration: $duration;
+  animation-timing-function: $timing;
+}

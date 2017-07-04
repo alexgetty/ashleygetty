@@ -1,0 +1,10 @@
+
+// PATTERNS / SHADOWS
+// -----------------------------------------------------------------------------
+
+
+@mixin shadow {
+    -webkit-box-shadow: 0 .5rem 4rem 0 color(neutral, darkest, .1);
+    -moz-box-shadow: 0 .5rem 4rem 0 color(neutral, darkest, .1);
+    box-shadow: 0 .5rem 4rem 0 color(neutral, darkest, .1);
+}

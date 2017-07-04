@@ -1,0 +1,86 @@
+
+// BLOCKS / PROJECT
+// -----------------------------------------------------------------------------
+
+
+.project {
+    position: relative;
+    @include animation(fade-in);
+
+    &__header {
+        text-align: center;
+        margin-bottom: 6rem;
+
+        a {
+            display: block;
+            background-image: url('../img/name-overlay.png');
+            background-size: contain;
+            background-repeat: no-repeat;
+            width: 10rem;
+            height: 6rem;
+            margin: 2rem auto 3rem;
+        }
+    }
+
+    &__body {
+        width: 65vw;
+        max-width: 1200px;
+        margin: 0 auto;
+
+        img {
+            @include shadow;
+            width: 100%;
+        }
+
+        p {
+            width: 100%;
+            max-width: 40rem;
+            margin: 4rem auto;
+        }
+
+        figure {
+            margin: 4rem 0;
+        }
+    }
+
+    &__footer {
+        margin: 2rem auto;
+        text-align: center;
+    }
+}
+
+.project-thumbnail {
+    @include animation(fade-in);
+    @include shadow;
+    display: inline-block;
+    position: relative;
+    width: 18rem;
+    height: 18rem;
+    background-size: cover;
+
+    &__hover {
+        @include transition-hover;
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        opacity: 0;
+        background-color: color(neutral, darkest, .6);
+        display: flex;
+    }
+
+    &__title {
+        color: color(neutral, lightest);
+        margin: auto;
+        text-transform: uppercase;
+        font-size: size(small);
+        letter-spacing: .25rem;
+    }
+
+    &:hover {
+        .project-thumbnail__hover {
+            opacity: 1;
+        }
+    }
+}

@@ -1,0 +1,25 @@
+
+// CORE / LAYOUT
+// -----------------------------------------------------------------------------
+
+
+
+// Settings
+
+$container-width: 64; // rem
+$gutter: 1; // rem
+
+$breakpoints: (
+  small: 600,
+  large: 1200
+);
+
+
+// Breakpoint Accessors
+// Source: Utilities / Breakpoints
+
+/*
+@include from(breakpoint){ ... }
+@include until(breakpoint){ ... }
+@include between(min, max){ ... }
+*/

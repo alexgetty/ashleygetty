@@ -1,0 +1,18 @@
+
+// PATTERNS / ANIMATIONS
+// -----------------------------------------------------------------------------
+
+
+// Fade-in - elements increase opacity and move up
+
+@keyframes fade-in {
+  from {
+    top: 1rem;
+    opacity: 0
+  }
+
+  to {
+    top: 0;
+    opacity: 1
+  }
+}

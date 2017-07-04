@@ -1,0 +1,44 @@
+
+// BLOCKS / SOCIAL
+// -----------------------------------------------------------------------------
+
+.social {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    width: 12rem;
+    text-align: center;
+
+    &__item {
+        margin: 0 auto;
+
+        a {
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: contain;
+            display: block;
+            width: 2rem;
+            height: 2rem;
+            margin: 0 auto;
+        }
+    }
+
+    .-instagram {
+        a {
+            background-image: url('../img/instagram.png');
+        }
+    }
+
+    .-facebook {
+        a {
+            background-image: url('../img/facebook.png');
+        }
+    }
+
+    .-email {
+        a {
+            background-image: url('../img/email.png');
+        }
+    }
+}

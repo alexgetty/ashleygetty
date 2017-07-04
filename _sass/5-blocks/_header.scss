@@ -1,0 +1,51 @@
+
+// BLOCKS / HEADER
+// -----------------------------------------------------------------------------
+
+.header {
+    position: relative;
+    text-align: center;
+    height: 70vh;
+    background-image: url('../img/hero.jpg');
+    background-size: cover;
+    margin-bottom: 6rem;
+    display: flex;
+    padding: 8rem;
+
+    &__wrapper {
+        margin: auto;
+    }
+
+    &__title {
+        @include animation(fade-in);
+        position: relative;
+        margin: 0 auto 2rem;
+        color: color(neutral, lightest);
+    }
+
+    &__image {
+        width: 26vw;
+        max-width: 40rem;
+        min-width: 26rem;
+    }
+
+    &__tagline {
+        @include animation(fade-in);
+        position: relative;
+        font-size: size(large);
+        margin: 0 auto 4rem;
+        max-width: 40rem;
+        color: color(neutral, lightest);
+    }
+
+    &__social {
+        @include animation(fade-in);
+        position: relative;
+        color: color(neutral, lightest);
+    }
+
+
+    @include until(small){
+        padding: 2rem;
+    }
+}
