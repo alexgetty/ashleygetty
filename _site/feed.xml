@@ -5,9 +5,34 @@
     <description>Ashley Getty</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 Jul 2017 12:05:14 -0400</pubDate>
-    <lastBuildDate>Tue, 04 Jul 2017 12:05:14 -0400</lastBuildDate>
+    <pubDate>Tue, 04 Jul 2017 13:18:13 -0400</pubDate>
+    <lastBuildDate>Tue, 04 Jul 2017 13:18:13 -0400</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Signs</title>
+        <description>&lt;figure&gt;
+    &lt;img src=&quot;../img/signs-1.jpg&quot; alt=&quot;signs&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/signs-2.jpg&quot; alt=&quot;signs&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/signs-3.jpg&quot; alt=&quot;signs&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/signs-4.jpg&quot; alt=&quot;signs&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/signs-5.jpg&quot; alt=&quot;signs&quot; /&gt;
+&lt;/figure&gt;
+</description>
+        <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/signs</link>
+        <guid isPermaLink="true">http://localhost:4000/signs</guid>
+        
+        
+      </item>
     
       <item>
         <title>Invites</title>
@@ -123,6 +148,43 @@
         <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/beer-labels</link>
         <guid isPermaLink="true">http://localhost:4000/beer-labels</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Bcb</title>
+        <description>&lt;figure&gt;
+    &lt;img src=&quot;../img/bcb-1.jpg&quot; alt=&quot;bcb&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/bcb-2.jpg&quot; alt=&quot;bcb&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/bcb-3.jpg&quot; alt=&quot;bcb&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/bcb-4.jpg&quot; alt=&quot;bcb&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/bcb-5.jpg&quot; alt=&quot;bcb&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/bcb-6.jpg&quot; alt=&quot;bcb&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/bcb-7.jpg&quot; alt=&quot;bcb&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/bcb-8.jpg&quot; alt=&quot;bcb&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/bcb-9.jpg&quot; alt=&quot;bcb&quot; /&gt;
+&lt;/figure&gt;
+</description>
+        <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/bcb</link>
+        <guid isPermaLink="true">http://localhost:4000/bcb</guid>
         
         
       </item>

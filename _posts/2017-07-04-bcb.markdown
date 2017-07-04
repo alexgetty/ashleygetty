@@ -1,0 +1,36 @@
+---
+layout: post
+name:  BCB
+intro: This is a place for the summary of a project
+coverImage: bcb-cover.jpg
+date:   2017-07-04
+---
+
+
+<figure>
+    <img src="../img/bcb-1.jpg" alt="bcb" />
+</figure>
+<figure>
+    <img src="../img/bcb-2.jpg" alt="bcb" />
+</figure>
+<figure>
+    <img src="../img/bcb-3.jpg" alt="bcb" />
+</figure>
+<figure>
+    <img src="../img/bcb-4.jpg" alt="bcb" />
+</figure>
+<figure>
+    <img src="../img/bcb-5.jpg" alt="bcb" />
+</figure>
+<figure>
+    <img src="../img/bcb-6.jpg" alt="bcb" />
+</figure>
+<figure>
+    <img src="../img/bcb-7.jpg" alt="bcb" />
+</figure>
+<figure>
+    <img src="../img/bcb-8.jpg" alt="bcb" />
+</figure>
+<figure>
+    <img src="../img/bcb-9.jpg" alt="bcb" />
+</figure>

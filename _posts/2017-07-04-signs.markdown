@@ -1,0 +1,24 @@
+---
+layout: post
+name:  Signs
+intro: This is a place for the summary of a project
+coverImage: signs-cover.jpg
+date:   2017-07-04
+---
+
+
+<figure>
+    <img src="../img/signs-1.jpg" alt="signs" />
+</figure>
+<figure>
+    <img src="../img/signs-2.jpg" alt="signs" />
+</figure>
+<figure>
+    <img src="../img/signs-3.jpg" alt="signs" />
+</figure>
+<figure>
+    <img src="../img/signs-4.jpg" alt="signs" />
+</figure>
+<figure>
+    <img src="../img/signs-5.jpg" alt="signs" />
+</figure>
