@@ -41,6 +41,12 @@
         figure {
             margin: 4rem 0;
         }
+
+        figcaption {
+            width: 100%;
+            max-width: 40rem;
+            margin: 1rem auto 2rem;
+        }
     }
 
     &__footer {

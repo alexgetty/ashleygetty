@@ -37,6 +37,13 @@ p {
     line-height: 1.4;
 }
 
+figcaption {
+    color: color(neutral, base);
+    font-size: size(small);
+    margin: 0 auto 1.6em;
+    line-height: 1.4;
+}
+
 a {
     @include transition-hover();
     text-transform: uppercase;

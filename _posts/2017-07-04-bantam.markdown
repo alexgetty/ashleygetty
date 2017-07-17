@@ -1,0 +1,24 @@
+---
+layout: post
+name:  Bantam
+intro: This is a place for the summary of a project
+coverImage: bantam-cover.jpg
+date:   2017-07-04
+---
+
+
+<figure>
+    <img src="../img/bantam-1.jpg" alt="bantam" />
+</figure>
+<figure>
+    <img src="../img/bantam-2.jpg" alt="bantam" />
+</figure>
+<figure>
+    <img src="../img/bantam-3.jpg" alt="bantam" />
+</figure>
+<figure>
+    <img src="../img/bantam-4.jpg" alt="bantam" />
+</figure>
+<figure>
+    <img src="../img/bantam-5.jpg" alt="bantam" />
+</figure>

@@ -1,0 +1,30 @@
+---
+layout: post
+name:  Dental Van
+intro: This is a place for the summary of a project
+coverImage: dental-cover.jpg
+date:   2017-07-04
+---
+
+
+<figure>
+    <img src="../img/dental-1.jpg" alt="dental" />
+</figure>
+<figure>
+    <img src="../img/dental-2.jpg" alt="dental" />
+</figure>
+<figure>
+    <img src="../img/dental-3.jpg" alt="dental" />
+</figure>
+<figure>
+    <img src="../img/dental-4.jpg" alt="dental" />
+</figure>
+<figure>
+    <img src="../img/dental-5.jpg" alt="dental" />
+</figure>
+<figure>
+    <img src="../img/dental-6.jpeg" alt="dental" />
+</figure>
+<figure>
+    <img src="../img/dental-7.jpg" alt="dental" />
+</figure>

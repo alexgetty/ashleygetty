@@ -5,8 +5,8 @@
     <description>Ashley Getty</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 Jul 2017 13:47:42 -0400</pubDate>
-    <lastBuildDate>Tue, 04 Jul 2017 13:47:42 -0400</lastBuildDate>
+    <pubDate>Mon, 17 Jul 2017 18:47:05 -0400</pubDate>
+    <lastBuildDate>Mon, 17 Jul 2017 18:47:05 -0400</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -35,6 +35,40 @@
       </item>
     
       <item>
+        <title>Lettering</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;../img/lettering-1.jpg&quot; alt=&quot;lettering&quot; /&gt;
+    &lt;figcaption&gt;This is a caption. It will most likely be smaller and shorter than regular text because it isn't as important and everyone will probably just ignore it anyway.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;../img/lettering-2.jpg&quot; alt=&quot;lettering&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/lettering-3.jpg&quot; alt=&quot;lettering&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/lettering-4.jpg&quot; alt=&quot;lettering&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/lettering-5.jpg&quot; alt=&quot;lettering&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/lettering-6.jpeg&quot; alt=&quot;lettering&quot; /&gt;
+&lt;/figure&gt;
+</description>
+        <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/lettering</link>
+        <guid isPermaLink="true">http://localhost:4000/lettering</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>Invites</title>
         <description>&lt;figure&gt;
     &lt;img src=&quot;../img/invites-1.jpg&quot; alt=&quot;invites&quot; /&gt;
@@ -52,7 +86,7 @@
     &lt;img src=&quot;../img/invites-5.jpg&quot; alt=&quot;invites&quot; /&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img src=&quot;../img/invites-6.jpg&quot; alt=&quot;invites&quot; /&gt;
+    &lt;img src=&quot;../img/invites-6.jpeg&quot; alt=&quot;invites&quot; /&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;img src=&quot;../img/invites-7.jpg&quot; alt=&quot;invites&quot; /&gt;
@@ -128,6 +162,37 @@
       </item>
     
       <item>
+        <title>Dental</title>
+        <description>&lt;figure&gt;
+    &lt;img src=&quot;../img/dental-1.jpg&quot; alt=&quot;dental&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/dental-2.jpg&quot; alt=&quot;dental&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/dental-3.jpg&quot; alt=&quot;dental&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/dental-4.jpg&quot; alt=&quot;dental&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/dental-5.jpg&quot; alt=&quot;dental&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/dental-6.jpeg&quot; alt=&quot;dental&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/dental-7.jpg&quot; alt=&quot;dental&quot; /&gt;
+&lt;/figure&gt;
+</description>
+        <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/dental</link>
+        <guid isPermaLink="true">http://localhost:4000/dental</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>Beer Labels</title>
         <description>&lt;figure&gt;
     &lt;img src=&quot;../img/beer-1.jpg&quot; alt=&quot;beer&quot; /&gt;
@@ -185,6 +250,31 @@
         <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/bcb</link>
         <guid isPermaLink="true">http://localhost:4000/bcb</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Bantam</title>
+        <description>&lt;figure&gt;
+    &lt;img src=&quot;../img/bantam-1.jpg&quot; alt=&quot;bantam&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/bantam-2.jpg&quot; alt=&quot;bantam&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/bantam-3.jpg&quot; alt=&quot;bantam&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/bantam-4.jpg&quot; alt=&quot;bantam&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/bantam-5.jpg&quot; alt=&quot;bantam&quot; /&gt;
+&lt;/figure&gt;
+</description>
+        <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/bantam</link>
+        <guid isPermaLink="true">http://localhost:4000/bantam</guid>
         
         
       </item>
