@@ -1,0 +1,41 @@
+---
+layout: post
+name: Hershey
+coverImage: hershey-cover.jpg
+date:   2017-07-04
+---
+
+The Hershey Company is one of Stoner Graphix's major clients, and I've had the pleasure of working on quite a few projects for them. I've selected this one in particular (done for the Target sales office in Minneapolis, MN) because it shows a variety of vinyl wall graphics, standoff-mounted panels, dimensional lettering, and frosted window vinyl.  In addition to this location, I’ve also worked on graphics for offices in Rhode Island, Illinois, Ohio, and their Corporate Headquarters in Hershey, Pennsylvania.
+
+I was the lead designer on this project, so my duties included laying out Hershey's branding patterns and imagery to fit specific wall sizes, breaking down all the graphics for print, printing the graphics on our large format printers, creating outsource files for the dimensional letters, and providing the installation team with measurements for the install. I've included photos of the finished work, as well as a few screenshots showing my specific roles throughout the project.
+
+<figure>
+    <img src="../img/hershey-1.jpg" alt="hershey" />
+</figure>
+<figure>
+    <img src="../img/hershey-2.jpg" alt="hershey" />
+</figure>
+<figure>
+    <img src="../img/hershey-3.jpg" alt="hershey" />
+</figure>
+
+Standoff-mounted panels: For the graphics in the next two photos, each panel was printed in reverse on clear vinyl, laminated with opaque white vinyl, and applied to the reverse side of routed clear acrylic panels. Thus, the graphics are actually located on the back side of the panels, which makes them less susceptible to the usual wear and tear.
+
+<figure>
+    <img src="../img/hershey-4.jpg" alt="hershey" />
+</figure>
+<figure>
+    <img src="../img/hershey-5.jpg" alt="hershey" />
+</figure>
+
+Etchmark Vinyl: The window/door graphics in the next two photos were plotted from a material called Etchmark. This gray, translucent vinyl allows for some privacy while still letting light shine through.
+
+<figure>
+    <img src="../img/hershey-6.jpg" alt="hershey" />
+</figure>
+<figure>
+    <img src="../img/hershey-7.jpg" alt="hershey" />
+</figure>
+<figure>
+    <img src="../img/hershey-8.jpg" alt="hershey" />
+</figure>

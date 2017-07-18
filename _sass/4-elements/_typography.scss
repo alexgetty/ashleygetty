@@ -38,10 +38,13 @@ p {
 }
 
 figcaption {
-    color: color(neutral, base);
-    font-size: size(small);
-    margin: 0 auto 1.6em;
-    line-height: 1.4;
+    p {
+        color: rgba(color(neutral, base), .62);
+        font-size: size(small);
+        font-style: italic;
+        margin: 0 auto 1.6em;
+        line-height: 1.4;
+    }
 }
 
 a {

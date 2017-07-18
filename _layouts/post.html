@@ -6,7 +6,9 @@ layout: default
     <header class="project__header">
         <a href="{{site.url}}"></a>
         <h1>{{ page.name }}</h1>
-        <p>{{ page.intro }}</p>
+        {% if page.intro != undefined %}
+            <p>{{ page.intro }}</p>
+        {% endif %}
     </header>
     <div class="project__body">
         {{ page.content }}

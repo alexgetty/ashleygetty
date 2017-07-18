@@ -1,11 +1,11 @@
 ---
 layout: post
 name:  Signs
-intro: This is a place for the summary of a project
 coverImage: signs-cover.jpg
 date:   2017-07-04
 ---
 
+Below are a few examples of freestanding exterior signs I designed while working at Stoner Graphix. Each client had specific requests such as color scheme, shape, style, etc. I was able to work with their individual needs to create specific designs that would go on to be printed, assembled, and installed.
 
 <figure>
     <img src="../img/signs-1.jpg" alt="signs" />
@@ -21,4 +21,8 @@ date:   2017-07-04
 </figure>
 <figure>
     <img src="../img/signs-5.jpg" alt="signs" />
+    <figcaption>
+        <p>This sign design was a collaboration. I was responsible for the sign layout and sizing, as well as adding color to the existing illustration and adding the finishing touches to the design.</p>
+        <p>All other designs were created by me and are property of Stoner Graphix.</p>
+    </figcaption>
 </figure>

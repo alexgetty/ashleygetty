@@ -1,11 +1,13 @@
 ---
 layout: post
 name:  Invites
-intro: This is a place for the summary of a project
 coverImage: invites-cover.jpg
 date:   2017-07-04
 ---
 
+Two of my favorite types of design work are invitation suites and event collateral. I using watercolor, and hand lettering to add unique touches to the designs.
+
+I had a lot of fun designing the invitation suite for this wedding, as well as printing and hand trimming the invites and info cards.
 
 <figure>
     <img src="../img/invites-1.jpg" alt="invites" />
@@ -19,12 +21,18 @@ date:   2017-07-04
 <figure>
     <img src="../img/invites-4.jpg" alt="invites" />
 </figure>
+
+Below are some designs I created for a bridal shower.
+
 <figure>
     <img src="../img/invites-5.jpg" alt="invites" />
 </figure>
 <figure>
     <img src="../img/invites-6.jpeg" alt="invites" />
 </figure>
+
+I also created the place cards and many of the signs that were featured at my own wedding by hand.
+
 <figure>
     <img src="../img/invites-7.jpg" alt="invites" />
 </figure>
