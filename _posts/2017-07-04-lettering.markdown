@@ -1,6 +1,6 @@
 ---
 layout: post
-name:  Lettering
+name:  Hand Lettering
 coverImage: lettering-cover.jpg
 date:   2017-07-04
 ---
