@@ -13,19 +13,19 @@ While the graphics appear to have been printed on a single piece of material, th
 My involvement in the project included creating a kid-friendly, fun design that adhered to the brand standards of Capital Blue Cross, fitting that design to the supplied vehicle measurements, breaking down the graphics into print-friendly files, producing (printing, laminating, and plotting) all the vinyl, and supplying the production team with measurements for the install.
 
 <figure>
-    <img src="../img/dental-1.jpg" alt="dental" />
+    <img src="../img/dental-1.JPG" alt="dental" />
 </figure>
 <figure>
-    <img src="../img/dental-2.jpg" alt="dental" />
+    <img src="../img/dental-2.JPG" alt="dental" />
 </figure>
 <figure>
-    <img src="../img/dental-3.jpg" alt="dental" />
+    <img src="../img/dental-3.JPG" alt="dental" />
 </figure>
 <figure>
-    <img src="../img/dental-4.jpg" alt="dental" />
+    <img src="../img/dental-4.JPG" alt="dental" />
 </figure>
 <figure>
-    <img src="../img/dental-5.jpg" alt="dental" />
+    <img src="../img/dental-5.JPG" alt="dental" />
 </figure>
 <figure>
     <figcaption>
