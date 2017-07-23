@@ -7,9 +7,10 @@ date:   2017-07-04
 
 The Hershey Company is one of Stoner Graphix's major clients, and I've had the pleasure of working on quite a few projects for them. I've selected this one in particular (done for the Target sales office in Minneapolis, MN) because it shows a variety of vinyl wall graphics, standoff-mounted panels, dimensional lettering, and frosted window vinyl.  In addition to this location, I’ve also worked on graphics for offices in Rhode Island, Illinois, Ohio, and their Corporate Headquarters in Hershey, Pennsylvania.
 
-I was the lead designer on this project, so my duties included laying out Hershey's branding patterns and imagery to fit specific wall sizes, breaking down all the graphics for print, printing the graphics on our large format printers, creating outsource files for the dimensional letters, and providing the installation team with measurements for the install. I've included photos of the finished work, as well as a few screenshots showing my specific roles throughout the project.
-
 <figure>
+    <figcaption>
+        <p>I was the lead designer on this project, so my duties included laying out Hershey's branding patterns and imagery to fit specific wall sizes, breaking down all the graphics for print, printing the graphics on our large format printers, creating outsource files for the dimensional letters, and providing the installation team with measurements for the install. I've included photos of the finished work, as well as a few screenshots showing my specific roles throughout the project.</p>
+    </figcaption>
     <img src="../img/hershey-1.jpg" alt="hershey" />
 </figure>
 <figure>
@@ -18,32 +19,30 @@ I was the lead designer on this project, so my duties included laying out Hershe
 <figure>
     <img src="../img/hershey-3.jpg" alt="hershey" />
 </figure>
-
-Standoff-mounted panels: For the graphics in the next two photos, each panel was printed in reverse on clear vinyl, laminated with opaque white vinyl, and applied to the reverse side of routed clear acrylic panels. Thus, the graphics are actually located on the back side of the panels, which makes them less susceptible to the usual wear and tear.
-
 <figure>
+    <figcaption>
+        <p>Standoff-mounted panels: For the graphics in the next two photos, each panel was printed in reverse on clear vinyl, laminated with opaque white vinyl, and applied to the reverse side of routed clear acrylic panels. Thus, the graphics are actually located on the back side of the panels, which makes them less susceptible to the usual wear and tear.</p>
+    </figcaption>
     <img src="../img/hershey-4.jpg" alt="hershey" />
 </figure>
 <figure>
     <img src="../img/hershey-5.jpg" alt="hershey" />
 </figure>
-
-Etchmark Vinyl: The window/door graphics in the next two photos were plotted from a material called Etchmark. This gray, translucent vinyl allows for some privacy while still letting light shine through.
-
 <figure>
+    <figcaption>
+        <p>Etchmark Vinyl: The window/door graphics in the next two photos were plotted from a material called Etchmark. This gray, translucent vinyl allows for some privacy while still letting light shine through.</p>
+    </figcaption>
     <img src="../img/hershey-6.jpg" alt="hershey" />
 </figure>
 <figure>
     <img src="../img/hershey-7.jpg" alt="hershey" />
 </figure>
-The screenshots below show some of the more noteworthy parts of the design process.
-
-<strong>Left:</strong> In addition to the conference rooms, there were also nineteen offices that received wall graphics. This screen shows my master layout for all the rooms. I was given overall measurements/window placement for each room; then I picked a pattern that would complement each space. All graphics were broken into 50” wide strips so they could be printed on the large format printer.
-
-<strong>Middle:</strong> These graphics were sized for a conference room (see first two photos above). The “bumpout” is a characteristic that is fairly common for wall graphics; designs and measurements must always be precise so the final product fits the space correctly.
-
-<strong>Right:</strong> This is the master layout for the etchmark window graphics. The graphics for each pane were plotted separately, and measurements were given for the installation team. Eight offices received these graphics.
-
 <figure>
+    <figcaption>
+        <p>The screenshots below show some of the more noteworthy parts of the design process.</p>
+        <p><strong>Left:</strong> In addition to the conference rooms, there were also nineteen offices that received wall graphics. This screen shows my master layout for all the rooms. I was given overall measurements/window placement for each room; then I picked a pattern that would complement each space. All graphics were broken into 50” wide strips so they could be printed on the large format printer.</p>
+        <p><strong>Middle:</strong> These graphics were sized for a conference room (see first two photos above). The “bumpout” is a characteristic that is fairly common for wall graphics; designs and measurements must always be precise so the final product fits the space correctly.</p>
+        <p><strong>Right:</strong> This is the master layout for the etchmark window graphics. The graphics for each pane were plotted separately, and measurements were given for the installation team. Eight offices received these graphics.</p>
+    </figcaption>
     <img src="../img/hershey-8.jpg" alt="hershey" />
 </figure>

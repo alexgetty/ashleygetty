@@ -5,8 +5,8 @@
     <description>Ashley Getty</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Jul 2017 10:04:29 -0400</pubDate>
-    <lastBuildDate>Fri, 21 Jul 2017 10:04:29 -0400</lastBuildDate>
+    <pubDate>Sun, 23 Jul 2017 09:18:25 -0400</pubDate>
+    <lastBuildDate>Sun, 23 Jul 2017 09:18:25 -0400</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -72,11 +72,12 @@
     
       <item>
         <title>Invites</title>
-        <description>&lt;p&gt;Two of my favorite types of design work are invitation suites and event collateral. I using watercolor, and hand lettering to add unique touches to the designs.&lt;/p&gt;
-
-&lt;p&gt;I had a lot of fun designing the invitation suite for this wedding, as well as printing and hand trimming the invites and info cards.&lt;/p&gt;
+        <description>&lt;p&gt;Two of my favorite types of design work are invitation suites and event collateral. I used watercolor and hand lettering to add unique touches to the designs.&lt;/p&gt;
 
 &lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;I had a lot of fun designing the invitation suite for this wedding, as well as printing and hand trimming the invites and info cards.&lt;/p&gt;
+    &lt;/figcaption&gt;
     &lt;img src=&quot;../img/invites-1.jpg&quot; alt=&quot;invites&quot; /&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
@@ -88,19 +89,19 @@
 &lt;figure&gt;
     &lt;img src=&quot;../img/invites-4.jpg&quot; alt=&quot;invites&quot; /&gt;
 &lt;/figure&gt;
-
-&lt;p&gt;Below are some designs I created for a bridal shower.&lt;/p&gt;
-
 &lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;Below are some designs I created for a bridal shower.&lt;/p&gt;
+    &lt;/figcaption&gt;
     &lt;img src=&quot;../img/invites-5.jpg&quot; alt=&quot;invites&quot; /&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;img src=&quot;../img/invites-6.jpeg&quot; alt=&quot;invites&quot; /&gt;
 &lt;/figure&gt;
-
-&lt;p&gt;I also created the place cards and many of the signs that were featured at my own wedding by hand.&lt;/p&gt;
-
 &lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;I also created the place cards and many of the signs that were featured at my own wedding by hand.&lt;/p&gt;
+    &lt;/figcaption&gt;
     &lt;img src=&quot;../img/invites-7.jpg&quot; alt=&quot;invites&quot; /&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
@@ -148,12 +149,46 @@
       </item>
     
       <item>
+        <title>Hollywood Hunter</title>
+        <description>&lt;p&gt;My coworker and I designed these beer labels as a Christmas present to one of our clients at Stoner Graphix - Freddy Harteis. Freddy has a television show called the Hollywood Hunter, which is what inspired the subject matter/name we featured on the labels. We admit - we did not learn how to brew and bottle beer prior to creating this design (although that would have been quite an adventure); we used a case of Yuengling and applied the cut vinyl to the box and bottles.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;../img/beer-1.jpg&quot; alt=&quot;beer&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/beer-2.jpg&quot; alt=&quot;beer&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/beer-3.jpg&quot; alt=&quot;beer&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;Below are a few images of the environmental theming design Stoner Graphix created for Freddy’s trophy room. All the textures on the walls, ceiling, doors, and bar were digitally printed on either corrugated plastic or vinyl and attached to the surfaces. I assisted various tasks throughout the process - mostly using the large format printers to print some of the corrugated plastic and vinyl.&lt;/p&gt;
+    &lt;/figcaption&gt;
+    &lt;img src=&quot;../img/beer-4.jpg&quot; alt=&quot;beer&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/beer-5.jpg&quot; alt=&quot;beer&quot; /&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;Photography: Clint Easley&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+        <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/hollywood-hunter</link>
+        <guid isPermaLink="true">http://localhost:4000/hollywood-hunter</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>Hershey</title>
         <description>&lt;p&gt;The Hershey Company is one of Stoner Graphix’s major clients, and I’ve had the pleasure of working on quite a few projects for them. I’ve selected this one in particular (done for the Target sales office in Minneapolis, MN) because it shows a variety of vinyl wall graphics, standoff-mounted panels, dimensional lettering, and frosted window vinyl.  In addition to this location, I’ve also worked on graphics for offices in Rhode Island, Illinois, Ohio, and their Corporate Headquarters in Hershey, Pennsylvania.&lt;/p&gt;
 
-&lt;p&gt;I was the lead designer on this project, so my duties included laying out Hershey’s branding patterns and imagery to fit specific wall sizes, breaking down all the graphics for print, printing the graphics on our large format printers, creating outsource files for the dimensional letters, and providing the installation team with measurements for the install. I’ve included photos of the finished work, as well as a few screenshots showing my specific roles throughout the project.&lt;/p&gt;
-
 &lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;I was the lead designer on this project, so my duties included laying out Hershey's branding patterns and imagery to fit specific wall sizes, breaking down all the graphics for print, printing the graphics on our large format printers, creating outsource files for the dimensional letters, and providing the installation team with measurements for the install. I've included photos of the finished work, as well as a few screenshots showing my specific roles throughout the project.&lt;/p&gt;
+    &lt;/figcaption&gt;
     &lt;img src=&quot;../img/hershey-1.jpg&quot; alt=&quot;hershey&quot; /&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
@@ -162,33 +197,31 @@
 &lt;figure&gt;
     &lt;img src=&quot;../img/hershey-3.jpg&quot; alt=&quot;hershey&quot; /&gt;
 &lt;/figure&gt;
-
-&lt;p&gt;Standoff-mounted panels: For the graphics in the next two photos, each panel was printed in reverse on clear vinyl, laminated with opaque white vinyl, and applied to the reverse side of routed clear acrylic panels. Thus, the graphics are actually located on the back side of the panels, which makes them less susceptible to the usual wear and tear.&lt;/p&gt;
-
 &lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;Standoff-mounted panels: For the graphics in the next two photos, each panel was printed in reverse on clear vinyl, laminated with opaque white vinyl, and applied to the reverse side of routed clear acrylic panels. Thus, the graphics are actually located on the back side of the panels, which makes them less susceptible to the usual wear and tear.&lt;/p&gt;
+    &lt;/figcaption&gt;
     &lt;img src=&quot;../img/hershey-4.jpg&quot; alt=&quot;hershey&quot; /&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;img src=&quot;../img/hershey-5.jpg&quot; alt=&quot;hershey&quot; /&gt;
 &lt;/figure&gt;
-
-&lt;p&gt;Etchmark Vinyl: The window/door graphics in the next two photos were plotted from a material called Etchmark. This gray, translucent vinyl allows for some privacy while still letting light shine through.&lt;/p&gt;
-
 &lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;Etchmark Vinyl: The window/door graphics in the next two photos were plotted from a material called Etchmark. This gray, translucent vinyl allows for some privacy while still letting light shine through.&lt;/p&gt;
+    &lt;/figcaption&gt;
     &lt;img src=&quot;../img/hershey-6.jpg&quot; alt=&quot;hershey&quot; /&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;img src=&quot;../img/hershey-7.jpg&quot; alt=&quot;hershey&quot; /&gt;
 &lt;/figure&gt;
-&lt;p&gt;The screenshots below show some of the more noteworthy parts of the design process.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Left:&lt;/strong&gt; In addition to the conference rooms, there were also nineteen offices that received wall graphics. This screen shows my master layout for all the rooms. I was given overall measurements/window placement for each room; then I picked a pattern that would complement each space. All graphics were broken into 50” wide strips so they could be printed on the large format printer.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Middle:&lt;/strong&gt; These graphics were sized for a conference room (see first two photos above). The “bumpout” is a characteristic that is fairly common for wall graphics; designs and measurements must always be precise so the final product fits the space correctly.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Right:&lt;/strong&gt; This is the master layout for the etchmark window graphics. The graphics for each pane were plotted separately, and measurements were given for the installation team. Eight offices received these graphics.&lt;/p&gt;
-
 &lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;The screenshots below show some of the more noteworthy parts of the design process.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Left:&lt;/strong&gt; In addition to the conference rooms, there were also nineteen offices that received wall graphics. This screen shows my master layout for all the rooms. I was given overall measurements/window placement for each room; then I picked a pattern that would complement each space. All graphics were broken into 50” wide strips so they could be printed on the large format printer.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Middle:&lt;/strong&gt; These graphics were sized for a conference room (see first two photos above). The “bumpout” is a characteristic that is fairly common for wall graphics; designs and measurements must always be precise so the final product fits the space correctly.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Right:&lt;/strong&gt; This is the master layout for the etchmark window graphics. The graphics for each pane were plotted separately, and measurements were given for the installation team. Eight offices received these graphics.&lt;/p&gt;
+    &lt;/figcaption&gt;
     &lt;img src=&quot;../img/hershey-8.jpg&quot; alt=&quot;hershey&quot; /&gt;
 &lt;/figure&gt;
 </description>
@@ -222,20 +255,18 @@
 &lt;figure&gt;
     &lt;img src=&quot;../img/dental-5.jpg&quot; alt=&quot;dental&quot; /&gt;
 &lt;/figure&gt;
-
-&lt;p&gt;A closer look at the toothbrush design.&lt;/p&gt;
-
 &lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;A closer look at the toothbrush design.&lt;/p&gt;
+    &lt;/figcaption&gt;
     &lt;img src=&quot;../img/dental-6.jpg&quot; alt=&quot;dental&quot; /&gt;
 &lt;/figure&gt;
-
-&lt;p&gt;The screenshots below show some of the more noteworthy parts of the design process.&lt;/p&gt;
-
-&lt;p&gt;Top: The van mocked up in Illustrator and ready to be proofed to the client.&lt;/p&gt;
-
-&lt;p&gt;Bottom: A detailed look at one of the print files; the pink stroke indicates the path where the plotter blade would actually cut the vinyl. Complex bleed was added to each shape, taking into consideration characteristics such as transparencies, gradients, sharp angles, etc.&lt;/p&gt;
-
 &lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;The screenshots below show some of the more noteworthy parts of the design process.&lt;/p&gt;
+        &lt;p&gt;Top: The van mocked up in Illustrator and ready to be proofed to the client.&lt;/p&gt;
+        &lt;p&gt;Bottom: A detailed look at one of the print files; the pink stroke indicates the path where the plotter blade would actually cut the vinyl. Complex bleed was added to each shape, taking into consideration characteristics such as transparencies, gradients, sharp angles, etc.&lt;/p&gt;
+    &lt;/figcaption&gt;
     &lt;img src=&quot;../img/dental-7.jpg&quot; alt=&quot;dental&quot; /&gt;
 &lt;/figure&gt;
 </description>
@@ -247,78 +278,46 @@
       </item>
     
       <item>
-        <title>Beer Labels</title>
-        <description>&lt;p&gt;My coworker and I designed these beer labels as a Christmas present to one of our clients at Stoner Graphix - Freddy Harteis. Freddy has a television show called the Hollywood Hunter, which is what inspired the subject matter/name we featured on the labels. We admit - we did not learn how to brew and bottle beer prior to creating this design (although that would have been quite an adventure); we used a case of Yuengling and applied the cut vinyl to the box and bottles.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;../img/beer-1.jpg&quot; alt=&quot;beer&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/beer-2.jpg&quot; alt=&quot;beer&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/beer-3.jpg&quot; alt=&quot;beer&quot; /&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Below are a few images of the environmental theming design Stoner Graphix created for Freddy’s trophy room. All the textures on the walls, ceiling, doors, and bar were digitally printed on either corrugated plastic or vinyl and attached to the surfaces. I assisted various tasks throughout the process - mostly using the large format printers to print some of the corrugated plastic and vinyl.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;../img/beer-4.jpg&quot; alt=&quot;beer&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/beer-5.jpg&quot; alt=&quot;beer&quot; /&gt;
-    &lt;figcaption&gt;
-        &lt;p&gt;Photography: Clint Easley&lt;/p&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-</description>
-        <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/beer-labels</link>
-        <guid isPermaLink="true">http://localhost:4000/beer-labels</guid>
-        
-        
-      </item>
-    
-      <item>
         <title>Bcb</title>
         <description>&lt;p&gt;This logo was designed for a coffee shop in New Cumberland, PA. Brew Crumberland’s Best (BCB) came to Stoner Graphix seeking a logo that reflected their eclectic and laid back style. In addition to designing the logo, I also designed the two outdoor signs.&lt;/p&gt;
 
-&lt;p&gt;I began with some rough sketches to help the client figure out a more specific design direction.&lt;/p&gt;
-
 &lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;I began with some rough sketches to help the client figure out a more specific design direction.&lt;/p&gt;
+    &lt;/figcaption&gt;
     &lt;img src=&quot;../img/bcb-1.jpg&quot; alt=&quot;bcb&quot; /&gt;
 &lt;/figure&gt;
-
-&lt;p&gt;I then took the designs into digital format. The client favored the top left sketch, so I used that as my guide for most of the designs. They also wanted to include the initials “BCB” to represent Brew Crumberland’s Best.&lt;/p&gt;
-
 &lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;I then took the designs into digital format. The client favored the top left sketch, so I used that as my guide for most of the designs. They also wanted to include the initials &quot;BCB&quot; to represent Brew Crumberland's Best.&lt;/p&gt;
+    &lt;/figcaption&gt;
     &lt;img src=&quot;../img/bcb-2.jpg&quot; alt=&quot;bcb&quot; /&gt;
 &lt;/figure&gt;
-
-&lt;p&gt;The client favored a rough organic style, so I sketched a coffee mug (and the coffee stain for some of the options) and used it in the next round of revisions. BCB also wanted to explore a few other ideas in this round of revisions, including a chalkboard style and the use of an actual photo of a coffee stain.&lt;/p&gt;
-
 &lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;The client favored a rough organic style, so I sketched a coffee mug (and the coffee stain for some of the options) and used it in the next round of revisions. BCB also wanted to explore a few other ideas in this round of revisions, including a chalkboard style and the use of an actual photo of a coffee stain.&lt;/p&gt;
+    &lt;/figcaption&gt;
     &lt;img src=&quot;../img/bcb-3.jpg&quot; alt=&quot;bcb&quot; /&gt;
 &lt;/figure&gt;
-
-&lt;p&gt;The client ultimately chose the coffee stain photo and cup sketch. After a few tweaks to an existing option from the last round of revisions, the client chose this as the final design.&lt;/p&gt;
-
 &lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;The client ultimately chose the coffee stain photo and cup sketch. After a few tweaks to an existing option from the last round of revisions, the client chose this as the final design.&lt;/p&gt;
+    &lt;/figcaption&gt;
     &lt;img src=&quot;../img/bcb-4.jpg&quot; alt=&quot;bcb&quot; /&gt;
 &lt;/figure&gt;
-
-&lt;p&gt;Once the final logo was selected, I used the same style to design two signs for the cafe.&lt;/p&gt;
-
 &lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;Once the final logo was selected, I used the same style to design two signs for the cafe.&lt;/p&gt;
+    &lt;/figcaption&gt;
     &lt;img src=&quot;../img/bcb-5.jpg&quot; alt=&quot;bcb&quot; /&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;img src=&quot;../img/bcb-6.jpg&quot; alt=&quot;bcb&quot; /&gt;
 &lt;/figure&gt;
-
-&lt;p&gt;The client has used the logo for business cards, murals, coffee mugs, coffee sleeves, business cards, and more. &lt;/p&gt;
-
 &lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;The client has used the logo for business cards, murals, coffee mugs, coffee sleeves, business cards, and more. &lt;/p&gt;
+    &lt;/figcaption&gt;
     &lt;img src=&quot;../img/bcb-7.jpg&quot; alt=&quot;bcb&quot; /&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
