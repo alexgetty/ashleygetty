@@ -37,6 +37,11 @@ p {
     line-height: 1.4;
 }
 
+strong {
+    font-weight: weight(bold);
+    color: color(neutral, base);
+}
+
 figcaption {
     p {
         color: rgba(color(neutral, base), .62);

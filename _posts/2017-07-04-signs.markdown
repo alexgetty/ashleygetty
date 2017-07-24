@@ -22,7 +22,7 @@ Below are a few examples of freestanding exterior signs I designed while working
 <figure>
     <img src="../img/signs-5.jpg" alt="signs" />
     <figcaption>
-        <p>This sign design was a collaboration. I was responsible for the sign layout and sizing, as well as adding color to the existing illustration and adding the finishing touches to the design.</p>
+        <p>The sign above was a collaboration. I was responsible for the layout and sizing, as well as adding color to the existing illustration and adding the finishing touches to the design.</p>
         <p>All other designs were created by me and are property of Stoner Graphix.</p>
     </figcaption>
 </figure>
