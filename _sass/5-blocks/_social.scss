@@ -21,24 +21,28 @@
             width: 2rem;
             height: 2rem;
             margin: 0 auto;
+            opacity: .3;
+            &:hover {
+                opacity: .6;
+            }
         }
     }
 
     .-instagram {
         a {
-            background-image: url('../img/instagram.png');
+            background-image: url('../img/instagram-black.png');
         }
     }
 
     .-facebook {
         a {
-            background-image: url('../img/facebook.png');
+            background-image: url('../img/facebook-black.png');
         }
     }
 
     .-email {
         a {
-            background-image: url('../img/email.png');
+            background-image: url('../img/email-black.png');
         }
     }
 }

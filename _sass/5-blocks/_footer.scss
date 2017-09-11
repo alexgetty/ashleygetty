@@ -1,0 +1,13 @@
+
+// BLOCKS / HEADER
+// -----------------------------------------------------------------------------
+
+footer {
+    padding-bottom: 4rem;
+
+    &__social {
+        @include animation(fade-in);
+        position: relative;
+        color: color(neutral, lightest);
+    }
+}

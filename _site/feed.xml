@@ -5,8 +5,8 @@
     <description>Ashley Getty</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 24 Jul 2017 20:37:38 -0400</pubDate>
-    <lastBuildDate>Mon, 24 Jul 2017 20:37:38 -0400</lastBuildDate>
+    <pubDate>Sun, 10 Sep 2017 21:18:54 -0600</pubDate>
+    <lastBuildDate>Sun, 10 Sep 2017 21:18:54 -0600</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -32,7 +32,7 @@
     &lt;img src=&quot;../img/lettering-6.jpg&quot; alt=&quot;lettering&quot; /&gt;
 &lt;/figure&gt;
 </description>
-        <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 04 Jul 2017 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/lettering</link>
         <guid isPermaLink="true">http://localhost:4000/lettering</guid>
         
@@ -85,7 +85,7 @@
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 </description>
-        <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 04 Jul 2017 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/hershey</link>
         <guid isPermaLink="true">http://localhost:4000/hershey</guid>
         
@@ -118,7 +118,7 @@
     &lt;img src=&quot;../img/illustration-7.jpg&quot; alt=&quot;illustration&quot; /&gt;
 &lt;/figure&gt;
 </description>
-        <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 04 Jul 2017 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/illustration</link>
         <guid isPermaLink="true">http://localhost:4000/illustration</guid>
         
@@ -151,7 +151,7 @@
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 </description>
-        <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 04 Jul 2017 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/hollywood-hunter</link>
         <guid isPermaLink="true">http://localhost:4000/hollywood-hunter</guid>
         
@@ -182,7 +182,7 @@
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 </description>
-        <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 04 Jul 2017 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/signs</link>
         <guid isPermaLink="true">http://localhost:4000/signs</guid>
         
@@ -227,7 +227,7 @@
     &lt;img src=&quot;../img/invites-8.jpg&quot; alt=&quot;invites&quot; /&gt;
 &lt;/figure&gt;
 </description>
-        <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 04 Jul 2017 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/invites</link>
         <guid isPermaLink="true">http://localhost:4000/invites</guid>
         
@@ -274,7 +274,7 @@
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 </description>
-        <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 04 Jul 2017 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/dental</link>
         <guid isPermaLink="true">http://localhost:4000/dental</guid>
         
@@ -331,7 +331,7 @@
     &lt;img src=&quot;../img/bcb-9.jpg&quot; alt=&quot;bcb&quot; /&gt;
 &lt;/figure&gt;
 </description>
-        <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 04 Jul 2017 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/bcb</link>
         <guid isPermaLink="true">http://localhost:4000/bcb</guid>
         
@@ -358,7 +358,7 @@
     &lt;img src=&quot;../img/bantam-5.jpg&quot; alt=&quot;bantam&quot; /&gt;
 &lt;/figure&gt;
 </description>
-        <pubDate>Tue, 04 Jul 2017 00:00:00 -0400</pubDate>
+        <pubDate>Tue, 04 Jul 2017 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/bantam</link>
         <guid isPermaLink="true">http://localhost:4000/bantam</guid>
         

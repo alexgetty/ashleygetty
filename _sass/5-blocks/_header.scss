@@ -5,49 +5,45 @@
 .header {
     position: relative;
     text-align: center;
-    height: 70vh;
+    height: 95vh;
+    min-height: 45rem;
     background-image: url('../img/hero.jpg');
     background-size: cover;
+    background-position: bottom;
     margin-bottom: 6rem;
     display: flex;
     padding: 4rem;
 
     &__wrapper {
-        margin: auto;
+        align-self: flex-start;
+        margin: 0 auto;
     }
 
-    &__title {
+    &__logo {
         @include animation(fade-in);
         position: relative;
-        margin: 0 auto 2rem;
         color: color(neutral, lightest);
-    }
 
-    &__image {
-        width: 26vw;
-        max-width: 40rem;
-        min-width: 18rem;
+        img {
+            width: 24rem;
 
-        @include until-px(532px){
-            min-width: 16rem;
+            @include until-px(532px){
+                width: 16rem;
+            }
         }
     }
 
     &__tagline {
         @include animation(fade-in);
+        font-family: font(secondary);
         position: relative;
         font-size: size(large);
-        margin: 0 auto 4rem;
+        font-weight: 400;
+        font-style: italic;
+        margin: 0 auto;
         max-width: 40rem;
-        color: color(neutral, lightest);
+        color: color(neutral, dark);
     }
-
-    &__social {
-        @include animation(fade-in);
-        position: relative;
-        color: color(neutral, lightest);
-    }
-
 
     @include until-px(800px){
         padding: 2rem;
