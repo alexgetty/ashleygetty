@@ -1,0 +1,32 @@
+
+// BLOCKS / ABOUT
+// -----------------------------------------------------------------------------
+
+
+.about {
+    position: relative;
+    @include animation(fade-in);
+    padding-top: 9rem;
+    width: 40vw;
+    max-width: 800px;
+    margin: 0 auto;
+
+    h1 {
+        text-align: center;
+        margin-bottom: 4rem;
+    }
+
+    img {
+        display: block;
+        width: 60%;
+        margin: 0 auto 4rem;
+    }
+
+    section {
+        margin-top: 4rem;
+    }
+
+    h2 {
+        text-align: center;
+    }
+}

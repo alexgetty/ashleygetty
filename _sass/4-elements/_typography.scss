@@ -62,6 +62,6 @@ a {
     font-weight: weight(bold);
 
     &:hover, &.--active {
-        color: darken(color(primary), 20%);
+        color: color(primary);
     }
 }

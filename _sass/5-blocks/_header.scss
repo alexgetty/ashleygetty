@@ -3,49 +3,60 @@
 // -----------------------------------------------------------------------------
 
 .header {
-    position: relative;
-    text-align: center;
-    height: 95vh;
-    min-height: 45rem;
-    background-image: url('../img/hero.jpg');
-    background-size: cover;
-    background-position: bottom;
-    margin-bottom: 6rem;
-    display: flex;
-    padding: 4rem;
-
-    &__wrapper {
-        align-self: flex-start;
-        margin: 0 auto;
-    }
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+    background-color: color(neutral, lightest);
+    overflow: auto;
+    padding: 0 3rem 0 2rem;
+    height: 5rem;
+    -webkit-box-shadow: 0px 4px 30px 0px rgba(0,0,0,0.16);
+    -moz-box-shadow: 0px 4px 30px 0px rgba(0,0,0,0.16);
+    box-shadow: 0px 4px 30px 0px rgba(0,0,0,0.16);
 
     &__logo {
-        @include animation(fade-in);
+        float: left;
         position: relative;
         color: color(neutral, lightest);
+        padding-top: 1.5rem;
 
         img {
-            width: 24rem;
-
-            @include until-px(532px){
-                width: 16rem;
-            }
+            height: 3rem;
         }
     }
 
-    &__tagline {
-        @include animation(fade-in);
-        font-family: font(secondary);
-        position: relative;
-        font-size: size(large);
-        font-weight: 400;
-        font-style: italic;
-        margin: 0 auto;
-        max-width: 40rem;
-        color: color(neutral, dark);
-    }
+    &__menu {
+        float: right;
+        padding-top: 1.8rem;
 
-    @include until-px(800px){
-        padding: 2rem;
+        a {
+            position: relative;
+            font-family: font("primary");
+            text-transform: uppercase;
+            color: color(neutral, darkest);
+            letter-spacing: .2rem;
+
+            &:after {
+                @include transition-hover;
+                content: "";
+                position: absolute;
+                height: 3px;
+                background-color: color("primary");
+                bottom: -.2rem;
+                left: 50%;
+                right: 50%;
+            }
+
+            &:hover:after {
+                left: 0;
+                right: 0;
+            }
+
+            & + a {
+                margin-left: 2rem;
+            }
+        }
     }
 }

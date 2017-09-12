@@ -6,6 +6,7 @@
 .project {
     position: relative;
     @include animation(fade-in);
+    padding-top: 9rem;
 
     &__header {
         text-align: center;
@@ -56,6 +57,10 @@
     &__footer {
         margin: 2rem auto;
         text-align: center;
+
+        font-family: font("primary");
+        text-transform: uppercase;
+        letter-spacing: .2rem;
     }
 }
 

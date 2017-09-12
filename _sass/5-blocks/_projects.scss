@@ -1,0 +1,36 @@
+
+// BLOCKS / PROJECTS
+// -----------------------------------------------------------------------------
+
+.projects {
+    padding-top: 9rem;
+    @include animation(fade-in);
+
+    h1 {
+        text-align: center;
+        margin-bottom: 4rem;
+    }
+
+    &__grid {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        list-style-type: none;
+        max-width: 57rem;
+        margin: 0 auto 4rem;
+
+        @include until-px(800px){
+            max-width: 38rem;
+        }
+
+        @include until-px(532px){
+            max-width: 19rem;
+        }
+
+        &__item {
+            width: 18rem;
+            height: 18rem;
+            margin: .5rem;
+        }
+    }
+}

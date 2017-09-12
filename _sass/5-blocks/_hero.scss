@@ -1,0 +1,40 @@
+
+// BLOCKS / HERO
+// -----------------------------------------------------------------------------
+
+.hero {
+    position: relative;
+    text-align: center;
+    height: 100vh;
+    min-height: 46rem;
+    background-image: url('../img/hero.jpg');
+    background-size: cover;
+    background-position: bottom;
+    display: flex;
+    padding: 9rem 0 4rem;
+
+    &__wrapper {
+        align-self: flex-start;
+        margin: 0 auto;
+    }
+
+    &__title {
+        margin: 3rem 0 2rem;
+        font-size: size(largest);
+    }
+
+    &__tagline {
+        font-family: font(secondary);
+        position: relative;
+        font-size: size(large);
+        font-weight: 400;
+        font-style: italic;
+        margin: 0 auto;
+        max-width: 40rem;
+        color: color(neutral, dark);
+    }
+
+    @include until-px(800px){
+        padding: 2rem;
+    }
+}

@@ -1,0 +1,20 @@
+---
+layout: default
+description: Ashley Getty's Portfolio
+keywords: Designer, Portfolio
+---
+
+<main class="projects" role="main">
+    <h1>My Work</h1>
+    <ul class="projects__grid">
+        {% for post in site.posts %}
+        <li class="projects__grid__item">
+            <a class="project-thumbnail" href="{{ post.url }}" style="background-image: url('../img/{{ post.coverImage }}')">
+                <div class="project-thumbnail__hover">
+                    <h2 class="project-thumbnail__title">{{ post.name }}</h2>
+                </div>
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+</main>
