@@ -8,7 +8,7 @@
     @include animation(fade-in);
     padding-top: 9rem;
     width: 40vw;
-    max-width: 800px;
+    min-width: 400px;
     margin: 0 auto;
 
     h1 {
@@ -18,7 +18,7 @@
 
     img {
         display: block;
-        width: 60%;
+        width: 80%;
         margin: 0 auto 4rem;
     }
 
