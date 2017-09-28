@@ -1,0 +1,25 @@
+
+// BLOCKS / VANGO
+// -----------------------------------------------------------------------------
+
+.vango {
+    img {
+        width: 60%;
+        max-width: 1000px;
+        min-width: 400px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    &__mockup {
+        margin-bottom: 6rem;
+    }
+
+    &__full {
+        -webkit-box-shadow: 0px 10px 50px 0px rgba(0,0,0,0.24);
+        -moz-box-shadow: 0px 10px 50px 0px rgba(0,0,0,0.24);
+        box-shadow: 0px 10px 50px 0px rgba(0,0,0,0.24);
+        margin-bottom: 20rem;
+    }
+}
