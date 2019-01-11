@@ -11,17 +11,17 @@ The Wonderwood is a rustic lakeside lodge located in Grand Lake, Colorado. I had
     <figcaption>
         <p>Logo concepts.</p>
     </figcaption>
-    <img src="../img/wonderwood-1.jpg" alt="bantam" />
+    <img src="../img/wonderwood-1.jpg" alt="wonderwood" />
 </figure>
 <figure>
     <figcaption>
         <p>Chosen design, shown in various contexts.</p>
     </figcaption>
-    <img src="../img/wonderwood-2.jpg" alt="bantam" />
+    <img src="../img/wonderwood-2.jpg" alt="wonderwood" />
 </figure>
 <figure>
     <figcaption>
         <p>Responsive site design.</p>
     </figcaption>
-    <img src="../img/wonderwood-3.jpg" alt="bantam" />
+    <img src="../img/wonderwood-3.jpg" alt="wonderwood" />
 </figure>

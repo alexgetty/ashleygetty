@@ -8,14 +8,14 @@ date:   2019-01-08
 Below are some of my favorite logos concepts that I created for clients of Worboys Design.
 
 <figure>
-    <img src="../img/logos-1.jpg" alt="bantam" />
+    <img src="../img/logos-1.jpg" alt="logos" />
 </figure>
 <figure>
-    <img src="../img/logos-2.jpg" alt="bantam" />
+    <img src="../img/logos-2.jpg" alt="logos" />
 </figure>
 <figure>
-    <img src="../img/logos-3.jpg" alt="bantam" />
+    <img src="../img/logos-3.jpg" alt="logos" />
 </figure>
 <figure>
-    <img src="../img/logos-4.jpg" alt="bantam" />
+    <img src="../img/logos-4.jpg" alt="logos" />
 </figure>
