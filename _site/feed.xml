@@ -3,45 +3,239 @@
   <channel>
     <title>Ashley Getty</title>
     <description>Ashley Getty</description>
-    <link>http://ashleygetty.com/</link>
-    <atom:link href="http://ashleygetty.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 05 Feb 2018 20:55:02 -0700</pubDate>
-    <lastBuildDate>Mon, 05 Feb 2018 20:55:02 -0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 10 Jan 2019 20:03:28 -0700</pubDate>
+    <lastBuildDate>Thu, 10 Jan 2019 20:03:28 -0700</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
-        <title>Lettering</title>
-        <description>&lt;p&gt;I enjoy the relaxing nature and fluidity of brush pen lettering, so in the recent months I’ve been exploring the art of creating small lettering compositions. I’ve started an Instagram account for these designs, (&lt;a href=&quot;https://www.instagram.com/lettercraft_diaries&quot; target=&quot;_blank&quot;&gt;@Lettercraft_Diaries&lt;/a&gt;) featuring song lyrics, quotes, verses - pretty much anything that looks good in brush pen! It has been a fun challenge to explore this medium.&lt;/p&gt;
+        <title>Handbell</title>
+        <description>&lt;p&gt;In late 2018, I had the pleasure of working with the Hershey Handbell Ensemble on a freelance project to design a new logo for the PA-based organization. I created a variety of options that incorporated both a modern and a vintage feel. In the end, the client preferred the more modern, circular design. I also created a few abbreviated logo options to be used for embroidery and other smaller, less detailed items.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&quot;../img/lettering-1.jpg&quot; alt=&quot;lettering&quot; /&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;Initial concepts.&lt;/p&gt;
+    &lt;/figcaption&gt;
+    &lt;img src=&quot;../img/handbell-1.jpg&quot; alt=&quot;bantam&quot; /&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img src=&quot;../img/lettering-2.jpg&quot; alt=&quot;lettering&quot; /&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;Chosen option.&lt;/p&gt;
+    &lt;/figcaption&gt;
+    &lt;img src=&quot;../img/handbell-2.jpg&quot; alt=&quot;bantam&quot; /&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img src=&quot;../img/lettering-3.jpg&quot; alt=&quot;lettering&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/lettering-4.jpg&quot; alt=&quot;lettering&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/lettering-5.jpg&quot; alt=&quot;lettering&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/lettering-6.jpg&quot; alt=&quot;lettering&quot; /&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;Alternate logo designs; chosen design shown in physical context.&lt;/p&gt;
+    &lt;/figcaption&gt;
+    &lt;img src=&quot;../img/handbell-3.jpg&quot; alt=&quot;bantam&quot; /&gt;
 &lt;/figure&gt;
 </description>
-        <pubDate>Tue, 04 Jul 2017 00:00:00 -0600</pubDate>
-        <link>http://ashleygetty.com/lettering</link>
-        <guid isPermaLink="true">http://ashleygetty.com/lettering</guid>
+        <pubDate>Tue, 08 Jan 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/handbell</link>
+        <guid isPermaLink="true">http://localhost:4000/handbell</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Logos</title>
+        <description>&lt;p&gt;Below are some of my favorite logos concepts that I created for clients of Worboys Design.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;../img/logos-1.jpg&quot; alt=&quot;bantam&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/logos-2.jpg&quot; alt=&quot;bantam&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/logos-3.jpg&quot; alt=&quot;bantam&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/logos-4.jpg&quot; alt=&quot;bantam&quot; /&gt;
+&lt;/figure&gt;
+</description>
+        <pubDate>Tue, 08 Jan 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/logos</link>
+        <guid isPermaLink="true">http://localhost:4000/logos</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Branded Bicycle</title>
+        <description>&lt;p&gt;St Paul Collection, a luxury apartment community located in Denver’s Cherry Creek neighborhood, came to Worboys Design with the unique idea of using branded bicycles as advertising pieces that could be placed around Cherry Creek. Worboys Design had never worked on a project quite like this before, and I had the opportunity to be the sole designer on the project. I began by finding a bike frame that could effectively emulate a luxurious, upscale look &amp;amp; feel. I then used Photoshop to mock up a design that represented the St Paul brand. I found &amp;amp; sourced a local bike vendor to do all the production work for the project - from the paint job &amp;amp; leather details the custom chain guard, signage panel, &amp;amp; crate. The finished product turned out better than my team &amp;amp; I could have imagined, and we are excited to see these bikes pop up in the Cherry Creek neighborhood. Many thanks to Ian at &lt;a href=&quot;http://whiterhinocustoms.com/&quot; target=&quot;_blank&quot;&gt;White Rhino Customs&lt;/a&gt; for his creativity and hard work to help bring this project to completion!&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;../img/brandedbicycle-1.jpg&quot; alt=&quot;bantam&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;Finished photos.&lt;/p&gt;
+    &lt;/figcaption&gt;
+    &lt;img src=&quot;../img/brandedbicycle-2.jpg&quot; alt=&quot;bantam&quot; /&gt;
+&lt;/figure&gt;
+</description>
+        <pubDate>Mon, 07 Jan 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/branded-bicycle</link>
+        <guid isPermaLink="true">http://localhost:4000/branded-bicycle</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Bantam</title>
+        <description>&lt;p&gt;The owner of Bantam Vintage Rentals was interested in a detailed, classic look for this design. I began by illustrating a hen, scanning and manipulating it into a usable digital format, and finally creating a simple but elegant logo that was centered around the illustration. Below are some examples of the logo used in various contexts.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;../img/bantam-1.jpg&quot; alt=&quot;bantam&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/bantam-2.jpg&quot; alt=&quot;bantam&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/bantam-3.jpg&quot; alt=&quot;bantam&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/bantam-4.jpg&quot; alt=&quot;bantam&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/bantam-5.jpg&quot; alt=&quot;bantam&quot; /&gt;
+&lt;/figure&gt;
+</description>
+        <pubDate>Sun, 06 Jan 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/bantam</link>
+        <guid isPermaLink="true">http://localhost:4000/bantam</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Wonderwood</title>
+        <description>&lt;p&gt;The Wonderwood is a rustic lakeside lodge located in Grand Lake, Colorado. I had the pleasure of creating a logo &amp;amp; website for this beautiful alpine getaway. Once the logo design was chosen, I began designing the site. I created a design that allowed the photography of the lodge to speak for itself and create a perfect foundation for the rest of the site. Some of the website’s features include local attractions, an amenities list, photo gallery, and contact info page. I wrote all the site’s copy, and used my hand lettering skills to create a header for each interior page. I then built a responsive website using the Divi plugin on WordPress, which allows a high degree of design customization. To see the website in more detail, check out &lt;a href=&quot;http://wonderwoodgrandlake.com&quot;&gt;wonderwoodgrandlake.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;Logo concepts.&lt;/p&gt;
+    &lt;/figcaption&gt;
+    &lt;img src=&quot;../img/wonderwood-1.jpg&quot; alt=&quot;bantam&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;Chosen design, shown in various contexts.&lt;/p&gt;
+    &lt;/figcaption&gt;
+    &lt;img src=&quot;../img/wonderwood-2.jpg&quot; alt=&quot;bantam&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;Responsive site design.&lt;/p&gt;
+    &lt;/figcaption&gt;
+    &lt;img src=&quot;../img/wonderwood-3.jpg&quot; alt=&quot;bantam&quot; /&gt;
+&lt;/figure&gt;
+</description>
+        <pubDate>Sat, 05 Jan 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/wonderwood</link>
+        <guid isPermaLink="true">http://localhost:4000/wonderwood</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Invites</title>
+        <description>&lt;p&gt;Two of my favorite types of design work are invitation suites and event collateral. I like to use hand lettering to add unique touches to the designs. When time allows, I also print the invitations using my Epson R2000 printer. It’s always gratifying to see a project through from start to finish in my own home.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;../img/invites-1.jpg&quot; alt=&quot;invites&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/invites-2.jpg&quot; alt=&quot;invites&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/invites-3.jpg&quot; alt=&quot;invites&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/invites-4.jpg&quot; alt=&quot;invites&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/invites-5.jpg&quot; alt=&quot;invites&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/invites-6.jpg&quot; alt=&quot;invites&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/invites-7.jpg&quot; alt=&quot;invites&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;I also created the place cards and many of the signs that were featured at my own wedding by hand.&lt;/p&gt;
+    &lt;/figcaption&gt;
+    &lt;img src=&quot;../img/invites-8.jpg&quot; alt=&quot;invites&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/invites-9.jpg&quot; alt=&quot;invites&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/invites-10.jpg&quot; alt=&quot;invites&quot; /&gt;
+&lt;/figure&gt;
+</description>
+        <pubDate>Fri, 04 Jan 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/invites</link>
+        <guid isPermaLink="true">http://localhost:4000/invites</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Dental</title>
+        <description>&lt;p&gt;One of the most unique projects I worked on at Stoner Graphix was this mobile dentist’s office for Capital Blue Cross. Precision was key here, as the vehicle had many windows, doors, and extendable portions. &lt;/p&gt;
+
+&lt;p&gt;While the graphics appear to have been printed on a single piece of material, they were actually broken down to be printed and plotted on 3 different vinyl types. The solid navy blue (background) and bright blue (toothbrush handle) were cut from colored vinyl. Everything else (bristles, bubbles, &amp;amp; text) was digitally printed onto white vinyl, then laminated and plotted from cut paths I created.&lt;/p&gt;
+
+&lt;p&gt;My involvement in the project included creating a kid-friendly, fun design that adhered to the brand standards of Capital Blue Cross, fitting that design to the supplied vehicle measurements, breaking down the graphics into print-friendly files, producing (printing, laminating, and plotting) all the vinyl, and supplying the production team with measurements for the install.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;../img/dental-1.JPG&quot; alt=&quot;dental&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/dental-2.JPG&quot; alt=&quot;dental&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/dental-3.JPG&quot; alt=&quot;dental&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/dental-4.JPG&quot; alt=&quot;dental&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/dental-5.JPG&quot; alt=&quot;dental&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;A closer look at the toothbrush design.&lt;/p&gt;
+    &lt;/figcaption&gt;
+    &lt;img src=&quot;../img/dental-6.jpg&quot; alt=&quot;dental&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;The screenshots below show some of the more noteworthy parts of the design process.&lt;/p&gt;
+    &lt;/figcaption&gt;
+    &lt;img src=&quot;../img/dental-7.jpg&quot; alt=&quot;dental&quot; /&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;&lt;strong&gt;Top:&lt;/strong&gt; The van mocked up in Illustrator and ready to be proofed to the client.&lt;/p&gt;
+        &lt;p&gt;&lt;strong&gt;Bottom:&lt;/strong&gt; A detailed look at one of the print files; the pink stroke indicates the path where the plotter blade would actually cut the vinyl. Complex bleed was added to each shape, taking into consideration characteristics such as transparencies, gradients, sharp angles, etc.&lt;/p&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+        <pubDate>Thu, 03 Jan 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/dental</link>
+        <guid isPermaLink="true">http://localhost:4000/dental</guid>
         
         
       </item>
     
       <item>
         <title>Hershey</title>
-        <description>&lt;p&gt;The Hershey Company is one of Stoner Graphix’s major clients, and I’ve had the pleasure of working on quite a few projects for them. I’ve selected this one in particular (done for the Target sales office in Minneapolis, MN) because it shows a variety of vinyl wall graphics, standoff-mounted panels, dimensional lettering, and frosted window vinyl.  In addition to this location, I’ve also worked on graphics for offices in Rhode Island, Illinois, Ohio, and their Corporate Headquarters in Hershey, Pennsylvania.&lt;/p&gt;
+        <description>&lt;p&gt;The Hershey Company is one of Stoner Graphix’s major clients, and I had the pleasure of working on quite a few projects for them. I’ve selected this one in particular (done for the Target Corporation sales office in Minneapolis, MN) because it shows a variety of vinyl wall graphics, standoff-mounted panels, dimensional lettering, and frosted window vinyl.  In addition to this location, I’ve also worked on graphics for offices in Rhode Island, Illinois, Ohio, and their Corporate Headquarters in Hershey, Pennsylvania.&lt;/p&gt;
 
 &lt;figure&gt;
     &lt;figcaption&gt;
@@ -85,285 +279,54 @@
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 </description>
-        <pubDate>Tue, 04 Jul 2017 00:00:00 -0600</pubDate>
-        <link>http://ashleygetty.com/hershey</link>
-        <guid isPermaLink="true">http://ashleygetty.com/hershey</guid>
+        <pubDate>Wed, 02 Jan 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/hershey</link>
+        <guid isPermaLink="true">http://localhost:4000/hershey</guid>
         
         
       </item>
     
       <item>
-        <title>Illustration</title>
-        <description>&lt;p&gt;In my free time, I enjoy illustration. Micron pens are typically my weapon of choice, and I tend to favor subject matter that is connected to nature. I enjoy digging deep into each piece and including lots of detail, as I find it to be therapeutic and relaxing.&lt;/p&gt;
+        <title>Lettering Illustration</title>
+        <description>&lt;p&gt;In my free time, I enjoy hand lettering &amp;amp; illustration. For lettering, I like to alternate between Tombow Fudenosuke brush pens and digital lettering with a stylus. Micron pens are typically my weapon of choice for illustration, and I tend to favor subject matter that is connected to nature. I enjoy digging deep into each illustration piece and including lots of detail, as I find it to be therapeutic and relaxing.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&quot;../img/illustration-1.jpg&quot; alt=&quot;illustration&quot; /&gt;
+    &lt;img src=&quot;../img/lettering-illustration-1.jpg&quot; alt=&quot;illustration&quot; /&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img src=&quot;../img/illustration-2.jpg&quot; alt=&quot;illustration&quot; /&gt;
+    &lt;img src=&quot;../img/lettering-illustration-2.jpg&quot; alt=&quot;illustration&quot; /&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img src=&quot;../img/illustration-3.jpg&quot; alt=&quot;illustration&quot; /&gt;
+    &lt;img src=&quot;../img/lettering-illustration-3.jpg&quot; alt=&quot;illustration&quot; /&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img src=&quot;../img/illustration-4.jpg&quot; alt=&quot;illustration&quot; /&gt;
+    &lt;img src=&quot;../img/lettering-illustration-4.jpg&quot; alt=&quot;illustration&quot; /&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img src=&quot;../img/illustration-5.jpg&quot; alt=&quot;illustration&quot; /&gt;
+    &lt;img src=&quot;../img/lettering-illustration-5.jpg&quot; alt=&quot;illustration&quot; /&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img src=&quot;../img/illustration-6.jpg&quot; alt=&quot;illustration&quot; /&gt;
+    &lt;img src=&quot;../img/lettering-illustration-6.jpg&quot; alt=&quot;illustration&quot; /&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img src=&quot;../img/illustration-7.jpg&quot; alt=&quot;illustration&quot; /&gt;
+    &lt;img src=&quot;../img/lettering-illustration-7.jpg&quot; alt=&quot;illustration&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/lettering-illustration-8.jpg&quot; alt=&quot;illustration&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/lettering-illustration-9.jpg&quot; alt=&quot;illustration&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/lettering-illustration-10.jpg&quot; alt=&quot;illustration&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/lettering-illustration-11.jpg&quot; alt=&quot;illustration&quot; /&gt;
 &lt;/figure&gt;
 </description>
-        <pubDate>Tue, 04 Jul 2017 00:00:00 -0600</pubDate>
-        <link>http://ashleygetty.com/illustration</link>
-        <guid isPermaLink="true">http://ashleygetty.com/illustration</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Hollywood Hunter</title>
-        <description>&lt;p&gt;My coworker and I designed these beer labels as a Christmas present to one of our clients at Stoner Graphix - Freddy Harteis. Freddy has a television show called Hollywood Hunter, which is what inspired the name/subject matter we featured on the labels. I admit - we did not learn how to brew and bottle beer prior to creating this design (although that would have been quite an adventure); we used a case of Yuengling and applied the cut vinyl to the box and bottles.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;../img/beer-1.jpg&quot; alt=&quot;beer&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/beer-2.jpg&quot; alt=&quot;beer&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/beer-3.jpg&quot; alt=&quot;beer&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;figcaption&gt;
-        &lt;p&gt;Below are a few images of the environmental theming design Stoner Graphix created for Freddy’s trophy room. All the textures on the walls, ceiling, doors, and bar were digitally printed on either corrugated plastic or vinyl and attached to the surfaces. I assisted with various tasks throughout the process - mostly using the large format printers to print some of the corrugated plastic and vinyl.&lt;/p&gt;
-    &lt;/figcaption&gt;
-    &lt;img src=&quot;../img/beer-4.jpg&quot; alt=&quot;beer&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/beer-5.jpg&quot; alt=&quot;beer&quot; /&gt;
-    &lt;figcaption&gt;
-        &lt;p&gt;Photography: Clint Easley&lt;/p&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-</description>
-        <pubDate>Tue, 04 Jul 2017 00:00:00 -0600</pubDate>
-        <link>http://ashleygetty.com/hollywood-hunter</link>
-        <guid isPermaLink="true">http://ashleygetty.com/hollywood-hunter</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Signs</title>
-        <description>&lt;p&gt;Below are a few examples of freestanding exterior signs I designed while working at Stoner Graphix. Each client had specific requests such as color scheme, shape, style, etc. I was able to work with their individual needs to create specific designs that would go on to be printed, assembled, and installed.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;../img/signs-1.jpg&quot; alt=&quot;signs&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/signs-2.jpg&quot; alt=&quot;signs&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/signs-3.jpg&quot; alt=&quot;signs&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/signs-4.jpg&quot; alt=&quot;signs&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/signs-5.jpg&quot; alt=&quot;signs&quot; /&gt;
-    &lt;figcaption&gt;
-        &lt;p&gt;The sign above was a collaboration. I was responsible for the layout and sizing, as well as adding color to the existing illustration and adding the finishing touches to the design.&lt;/p&gt;
-        &lt;p&gt;All other designs were created by me and are property of Stoner Graphix.&lt;/p&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-</description>
-        <pubDate>Tue, 04 Jul 2017 00:00:00 -0600</pubDate>
-        <link>http://ashleygetty.com/signs</link>
-        <guid isPermaLink="true">http://ashleygetty.com/signs</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Invites</title>
-        <description>&lt;p&gt;Two of my favorite types of design work are invitation suites and event collateral. I use watercolor and hand lettering to add unique touches to the designs.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;figcaption&gt;
-        &lt;p&gt;I had a lot of fun designing the invitation suite for this wedding, as well as printing and hand trimming the invites and info cards.&lt;/p&gt;
-    &lt;/figcaption&gt;
-    &lt;img src=&quot;../img/invites-1.jpg&quot; alt=&quot;invites&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/invites-2.jpg&quot; alt=&quot;invites&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/invites-3.jpg&quot; alt=&quot;invites&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/invites-4.jpg&quot; alt=&quot;invites&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;figcaption&gt;
-        &lt;p&gt;Below are some designs I created for a bridal shower.&lt;/p&gt;
-    &lt;/figcaption&gt;
-    &lt;img src=&quot;../img/invites-5.jpg&quot; alt=&quot;invites&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/invites-6.jpeg&quot; alt=&quot;invites&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;figcaption&gt;
-        &lt;p&gt;I also created the place cards and many of the signs that were featured at my own wedding by hand.&lt;/p&gt;
-    &lt;/figcaption&gt;
-    &lt;img src=&quot;../img/invites-7.jpg&quot; alt=&quot;invites&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/invites-8.jpg&quot; alt=&quot;invites&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/invites-9.jpg&quot; alt=&quot;invites&quot; /&gt;
-&lt;/figure&gt;
-</description>
-        <pubDate>Tue, 04 Jul 2017 00:00:00 -0600</pubDate>
-        <link>http://ashleygetty.com/invites</link>
-        <guid isPermaLink="true">http://ashleygetty.com/invites</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Dental</title>
-        <description>&lt;p&gt;One of the most unique projects I’ve worked on at Stoner Graphix was this mobile dentist’s office for Capital Blue Cross. Precision was key here, as the vehicle had many windows, doors, and extendable portions. &lt;/p&gt;
-
-&lt;p&gt;While the graphics appear to have been printed on a single piece of material, they were actually broken down to be printed and plotted on 3 different vinyl types. The solid navy blue (background) and bright blue (toothbrush handle) were cut from colored vinyl. Everything else (bristles, bubbles, &amp;amp; text) was digitally printed onto white vinyl, then laminated and plotted from cut paths I created.&lt;/p&gt;
-
-&lt;p&gt;My involvement in the project included creating a kid-friendly, fun design that adhered to the brand standards of Capital Blue Cross, fitting that design to the supplied vehicle measurements, breaking down the graphics into print-friendly files, producing (printing, laminating, and plotting) all the vinyl, and supplying the production team with measurements for the install.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;../img/dental-1.JPG&quot; alt=&quot;dental&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/dental-2.JPG&quot; alt=&quot;dental&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/dental-3.JPG&quot; alt=&quot;dental&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/dental-4.JPG&quot; alt=&quot;dental&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/dental-5.JPG&quot; alt=&quot;dental&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;figcaption&gt;
-        &lt;p&gt;A closer look at the toothbrush design.&lt;/p&gt;
-    &lt;/figcaption&gt;
-    &lt;img src=&quot;../img/dental-6.jpg&quot; alt=&quot;dental&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;figcaption&gt;
-        &lt;p&gt;The screenshots below show some of the more noteworthy parts of the design process.&lt;/p&gt;
-    &lt;/figcaption&gt;
-    &lt;img src=&quot;../img/dental-7.jpg&quot; alt=&quot;dental&quot; /&gt;
-    &lt;figcaption&gt;
-        &lt;p&gt;&lt;strong&gt;Top:&lt;/strong&gt; The van mocked up in Illustrator and ready to be proofed to the client.&lt;/p&gt;
-        &lt;p&gt;&lt;strong&gt;Bottom:&lt;/strong&gt; A detailed look at one of the print files; the pink stroke indicates the path where the plotter blade would actually cut the vinyl. Complex bleed was added to each shape, taking into consideration characteristics such as transparencies, gradients, sharp angles, etc.&lt;/p&gt;
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-</description>
-        <pubDate>Tue, 04 Jul 2017 00:00:00 -0600</pubDate>
-        <link>http://ashleygetty.com/dental</link>
-        <guid isPermaLink="true">http://ashleygetty.com/dental</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Bcb</title>
-        <description>&lt;p&gt;This logo was designed for a coffee shop in New Cumberland, PA. Brew Crumberland’s Best (BCB) came to Stoner Graphix seeking a logo that reflected their eclectic and laid back style. In addition to designing the logo, I also designed the two outdoor signs.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;figcaption&gt;
-        &lt;p&gt;I began with some rough sketches to help the client figure out a more specific design direction.&lt;/p&gt;
-    &lt;/figcaption&gt;
-    &lt;img src=&quot;../img/bcb-1.jpg&quot; alt=&quot;bcb&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;figcaption&gt;
-        &lt;p&gt;I then took the designs into digital format. The client favored the top left sketch, so I used that as my guide for most of the designs. They also wanted to include the initials &quot;BCB&quot; to represent Brew Crumberland's Best.&lt;/p&gt;
-    &lt;/figcaption&gt;
-    &lt;img src=&quot;../img/bcb-2.jpg&quot; alt=&quot;bcb&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;figcaption&gt;
-        &lt;p&gt;The client favored a rough organic style, so I sketched a coffee mug (and the coffee stain for some of the options) and used it in the next round of revisions. BCB also wanted to explore a few other ideas in this round of revisions, including a chalkboard style and the use of an actual photo of a coffee stain.&lt;/p&gt;
-    &lt;/figcaption&gt;
-    &lt;img src=&quot;../img/bcb-3.jpg&quot; alt=&quot;bcb&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;figcaption&gt;
-        &lt;p&gt;The client ultimately chose the coffee stain photo and cup sketch. After a few tweaks to an existing option from the last round of revisions, the client chose this as the final design.&lt;/p&gt;
-    &lt;/figcaption&gt;
-    &lt;img src=&quot;../img/bcb-4.jpg&quot; alt=&quot;bcb&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;figcaption&gt;
-        &lt;p&gt;Once the final logo was selected, I used the same style to design two signs for the cafe.&lt;/p&gt;
-    &lt;/figcaption&gt;
-    &lt;img src=&quot;../img/bcb-5.jpg&quot; alt=&quot;bcb&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/bcb-6.jpg&quot; alt=&quot;bcb&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;figcaption&gt;
-        &lt;p&gt;The client has used the logo for business cards, murals, coffee mugs, coffee sleeves, business cards, and more. &lt;/p&gt;
-    &lt;/figcaption&gt;
-    &lt;img src=&quot;../img/bcb-7.jpg&quot; alt=&quot;bcb&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/bcb-8.jpg&quot; alt=&quot;bcb&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/bcb-9.jpg&quot; alt=&quot;bcb&quot; /&gt;
-&lt;/figure&gt;
-</description>
-        <pubDate>Tue, 04 Jul 2017 00:00:00 -0600</pubDate>
-        <link>http://ashleygetty.com/bcb</link>
-        <guid isPermaLink="true">http://ashleygetty.com/bcb</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Bantam</title>
-        <description>&lt;p&gt;The owner of Bantam Vintage Rentals was interested in a detailed, classic look for this design. I began by illustrating a hen, scanning and manipulating it into a usable digital format, and finally creating a simple but elegant logo that was centered around the illustration. Below are some examples of the logo used in various contexts.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;../img/bantam-1.jpg&quot; alt=&quot;bantam&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/bantam-2.jpg&quot; alt=&quot;bantam&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/bantam-3.jpg&quot; alt=&quot;bantam&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/bantam-4.jpg&quot; alt=&quot;bantam&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/bantam-5.jpg&quot; alt=&quot;bantam&quot; /&gt;
-&lt;/figure&gt;
-</description>
-        <pubDate>Tue, 04 Jul 2017 00:00:00 -0600</pubDate>
-        <link>http://ashleygetty.com/bantam</link>
-        <guid isPermaLink="true">http://ashleygetty.com/bantam</guid>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/lettering-illustration</link>
+        <guid isPermaLink="true">http://localhost:4000/lettering-illustration</guid>
         
         
       </item>

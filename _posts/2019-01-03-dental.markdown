@@ -1,0 +1,45 @@
+---
+layout: post
+name:  Mobile Dentist's Office
+coverImage: dental-cover.jpg
+date:   2019-01-03
+---
+
+
+One of the most unique projects I worked on at Stoner Graphix was this mobile dentist's office for Capital Blue Cross. Precision was key here, as the vehicle had many windows, doors, and extendable portions. 
+
+While the graphics appear to have been printed on a single piece of material, they were actually broken down to be printed and plotted on 3 different vinyl types. The solid navy blue (background) and bright blue (toothbrush handle) were cut from colored vinyl. Everything else (bristles, bubbles, & text) was digitally printed onto white vinyl, then laminated and plotted from cut paths I created.
+
+My involvement in the project included creating a kid-friendly, fun design that adhered to the brand standards of Capital Blue Cross, fitting that design to the supplied vehicle measurements, breaking down the graphics into print-friendly files, producing (printing, laminating, and plotting) all the vinyl, and supplying the production team with measurements for the install.
+
+<figure>
+    <img src="../img/dental-1.JPG" alt="dental" />
+</figure>
+<figure>
+    <img src="../img/dental-2.JPG" alt="dental" />
+</figure>
+<figure>
+    <img src="../img/dental-3.JPG" alt="dental" />
+</figure>
+<figure>
+    <img src="../img/dental-4.JPG" alt="dental" />
+</figure>
+<figure>
+    <img src="../img/dental-5.JPG" alt="dental" />
+</figure>
+<figure>
+    <figcaption>
+        <p>A closer look at the toothbrush design.</p>
+    </figcaption>
+    <img src="../img/dental-6.jpg" alt="dental" />
+</figure>
+<figure>
+    <figcaption>
+        <p>The screenshots below show some of the more noteworthy parts of the design process.</p>
+    </figcaption>
+    <img src="../img/dental-7.jpg" alt="dental" />
+    <figcaption>
+        <p><strong>Top:</strong> The van mocked up in Illustrator and ready to be proofed to the client.</p>
+        <p><strong>Bottom:</strong> A detailed look at one of the print files; the pink stroke indicates the path where the plotter blade would actually cut the vinyl. Complex bleed was added to each shape, taking into consideration characteristics such as transparencies, gradients, sharp angles, etc.</p>
+    </figcaption>
+</figure>

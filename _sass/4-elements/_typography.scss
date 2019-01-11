@@ -3,16 +3,18 @@
 // -----------------------------------------------------------------------------
 
 body {
-    font-family: font(secondary);
+    font-family: font(primary);
     color: color(neutral, darkest);
     line-height: 1.5;
 }
 
 h1 {
+    text-transform: uppercase;
     font-family: font(primary);
     font-size: size(larger);
     font-weight: weight(bold);
     color: color(neutral, darkest);
+    letter-spacing: .1rem;
 }
 
 h2 {
@@ -34,7 +36,7 @@ h3 {
 p {
     font-size: size(regular);
     margin: 0 auto 1.6em;
-    line-height: 1.4;
+    line-height: 1.6;
 }
 
 strong {

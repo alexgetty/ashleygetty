@@ -19,18 +19,20 @@
     }
 
     &__title {
-        margin: 3rem 0 2rem;
-        font-size: size(largest);
+        margin: 3rem 0 1rem;
+        font-size: 1.2rem;
+        text-transform: uppercase;
+        letter-spacing: .25rem;
+        opacity: .8;
     }
 
     &__tagline {
         font-family: font(secondary);
         position: relative;
-        font-size: size(large);
+        font-size: 2rem;
         font-weight: 400;
-        font-style: italic;
         margin: 0 auto;
-        max-width: 40rem;
+        max-width: 50rem;
         color: color(neutral, dark);
     }
 
