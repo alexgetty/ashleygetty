@@ -28,7 +28,10 @@
         margin: 0 auto;
 
         img {
-            @include shadow;
+
+            &:not(.no-shadow) {
+                @include shadow;
+            }
             width: 100%;
         }
 

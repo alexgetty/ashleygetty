@@ -2,7 +2,7 @@
 layout: post
 name:  Assorted Logos
 coverImage: logos-cover.jpg
-date:   2019-01-08
+date:   2019-01-07
 ---
 
 Below are some of my favorite logo concepts that I created for clients of Worboys Design.
