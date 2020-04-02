@@ -7,33 +7,55 @@
     position: relative;
     @include animation(fade-in);
     padding-top: 9rem;
-    width: 40vw;
     min-width: 320px;
+    max-width: 1200px;
     margin: 0 auto;
 
     h1 {
         text-align: center;
-        margin-bottom: 4rem;
+        margin-bottom: 2rem;
+        font-family: font(secondary);
+        font-weight: normal;
+        letter-spacing: 0;
+
+        @media (max-width: 800px) {
+            margin-bottom: 0;
+        }
     }
 
-    .about-photo {
-        border-radius: 100%;
-        display: block;
-        width: 60%;
-        margin: 0 auto 4rem;
-        overflow: hidden;
+    .about-row {
+        display: flex;
+        flex-direction: row;
+        margin: 0 2rem 4rem;
+
+        @media (max-width: 800px) {
+            flex-direction: column;
+            margin: 0 0 4rem;
+        }
+    }
+
+    section {
+        width: 50%;
+        margin: 0 2rem;
+
+        @media (max-width: 800px) {
+            width: auto;
+            margin: 2rem;
+        }
     }
 
     img {
         display: block;
         width: 100%;
-    }
-
-    section {
-        margin-top: 4rem;
+        max-width: 600px;
+        margin: 0 auto;
     }
 
     h2 {
         text-align: center;
+    }
+
+    p {
+        font-size: 14px;
     }
 }
