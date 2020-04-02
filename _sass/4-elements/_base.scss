@@ -27,4 +27,8 @@ body {
 
 main {
     position: relative;
+
+    &.-white {
+        background: white;
+    }
 }

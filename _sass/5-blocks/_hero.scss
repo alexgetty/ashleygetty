@@ -4,39 +4,81 @@
 
 .hero {
     position: relative;
-    text-align: center;
     height: 100vh;
-    min-height: 46rem;
+    min-height: 50rem;
     background-image: url('../img/hero.jpg');
     background-size: cover;
-    background-position: bottom;
+    background-position: right top;
     display: flex;
-    padding: 9rem 0 4rem;
+    padding: 15rem 0 4rem;
+    background-color: white;
+
+    @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) { 
+        background-image: url('../img/hero@2x.jpg');
+    }
+
+    @media (min-width: 1440px) {
+        background-image: url('../img/hero@2x.jpg');
+    }
+
+    @media (max-width: 960px) {
+        top: 16rem;
+        padding: 0 0 4rem;
+        z-index: 0;
+
+        &:after {
+            position: absolute;
+            top: 0rem;
+            left: 0;
+            right: 0;
+            content: "";
+            height: 8rem;
+            background: linear-gradient(180deg, rgba(255,255,255,1) 25%, rgba(255,255,255,0) 100%);
+        }
+    }
 
     &__wrapper {
         align-self: flex-start;
-        margin: 0 auto;
+        position: relative;
+        z-index: 1;
+
+        @media (max-width: 960px) {
+            margin-top: -6rem;
+        }
     }
 
     &__title {
-        margin: 3rem 0 1rem;
-        font-size: 1.2rem;
-        text-transform: uppercase;
-        letter-spacing: .25rem;
-        opacity: .8;
+        position: relative;
+        padding: 0 0 .75rem 6rem;
+        font-size: 1.25rem;
+        font-weight: normal;
+        text-transform: capitalize;
+        color: black;
+        border-bottom: 3px solid color(primary);
+        display: inline;
+
+        @media (max-width: 960px) {
+            padding: 0 0 .75rem 3rem;
+        }
     }
 
     &__tagline {
         font-family: font(secondary);
         position: relative;
-        font-size: 2rem;
+        font-size: 1.75rem;
+        line-height: 1.5;
         font-weight: 400;
         margin: 0 auto;
-        max-width: 50rem;
+        max-width: 26em;
         color: color(neutral, dark);
-    }
+        padding: 4rem 2rem 0 6rem;
 
-    @include until-px(800px){
-        padding: 6rem 0 2rem;
+        @media (min-width: 960px) {
+            max-width: 48vw;
+        }
+
+        @media (max-width: 960px) {
+            padding: 4rem 2rem 0 3rem;
+        }
     }
 }
