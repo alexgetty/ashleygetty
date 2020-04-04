@@ -1,0 +1,36 @@
+---
+layout: post
+name:  VSV Wine Bars
+coverImage: vsv-cover.jpg
+date:   2020-04-01
+---
+
+Vin Sur Vingt is a collection of authentic French Wine bars with locations throughout Manhattan, NYC and is a long-time client of Worboys Design. They came to us looking for a site refresh, as their previous site had been created quite a few years ago and was starting to feel outdated. 
+
+
+As the lead designer on this project, my role included project/account management, creation of new designs for the new website using Sketch App, and efficient communication with the developer during production. During the redesign, I also worked to improve the overall UX of Vin Sur Vingt's website by revisiting the setup of the navigation, location info, and menus. Users will now easily be able to find exactly what they are looking for, whether it is a certain location's menu/contact info, information on catering and private events, or simply to learn more about Vin Sur Vingt and its story.
+
+
+The website can be found at <a href="http://www.vsvwinebars.com" target="_blank">vsvwinebars.com</a>. 
+
+<figure>
+    <img class="no-shadow" src="../img/vsv-1.jpg" alt="vsv" />
+</figure>
+<figure>
+    <img class="no-shadow" src="../img/vsv-2.jpg" alt="vsv" />
+</figure>
+<figure>
+    <img class="no-shadow" src="../img/vsv-3.jpg" alt="vsv" />
+</figure>
+<figure>
+    <img class="no-shadow" src="../img/vsv-4.jpg" alt="vsv" />
+</figure>
+<figure>
+    <img class="no-shadow" src="../img/vsv-5.jpg" alt="vsv" />
+</figure>
+<figure>
+    <img class="no-shadow" src="../img/vsv-6.jpg" alt="vsv" />
+</figure>
+<figure>
+    <img class="no-shadow" src="../img/vsv-7.jpg" alt="vsv" />
+</figure>

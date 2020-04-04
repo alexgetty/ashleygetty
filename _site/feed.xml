@@ -5,31 +5,146 @@
     <description>Ashley Getty</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 04 Apr 2020 12:18:36 -0600</pubDate>
-    <lastBuildDate>Sat, 04 Apr 2020 12:18:36 -0600</lastBuildDate>
+    <pubDate>Sat, 04 Apr 2020 13:09:17 -0600</pubDate>
+    <lastBuildDate>Sat, 04 Apr 2020 13:09:17 -0600</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
-        <title>Broadstone</title>
-        <description>&lt;p&gt;Alliance Residential is one of Worboys Design’s largest clients, and we have partnered with them on multiple large-scale multifamily residential branding projects over the years. Broadstone Uptown is the most recent, with construction in full swing as of Spring 2019. This community will be located in the heart of Denver’s vibrant Uptown neighborhood - its interiors a fusion between two contrasting styles that both enhance and complement one another.&lt;/p&gt;
+        <title>Vsv</title>
+        <description>&lt;p&gt;Vin Sur Vingt is a collection of authentic French Wine bars with locations throughout Manhattan, NYC and is a long-time client of Worboys Design. They came to us looking for a site refresh, as their previous site had been created quite a few years ago and was starting to feel outdated.&lt;/p&gt;
 
-&lt;p&gt;At the onset of the project, the client requested the creation of a splash page to serve as a point of contact for potential residents and a source of information regarding construction updates. Prior to this, one of my teammates at Worboys had created a mood board to serve as direction for the project’s overall look and feel. I used this as a starting point which guided the design aesthetic and color palette for the project. A feeling of modern luxury is conveyed in the design, with dueling dark &amp;amp; light sections as well as fine gold accents.&lt;/p&gt;
+&lt;p&gt;As the lead designer on this project, my role included project/account management, creation of new designs for the new website using Sketch App, and efficient communication with the developer during production. During the redesign, I also worked to improve the overall UX of Vin Sur Vingt’s website by revisiting the setup of the navigation, location info, and menus. Users will now easily be able to find exactly what they are looking for, whether it is a certain location’s menu/contact info, information on catering and private events, or simply to learn more about Vin Sur Vingt and its story.&lt;/p&gt;
 
-&lt;p&gt;The splash page is live and can be found here: &lt;a href=&quot;http://www.broadstoneuptown.com&quot; target=&quot;_blank&quot;&gt;broadstoneuptown.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The website can be found at &lt;a href=&quot;http://www.vsvwinebars.com&quot; target=&quot;_blank&quot;&gt;vsvwinebars.com&lt;/a&gt;.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img class=&quot;no-shadow&quot; src=&quot;../img/uptown-1.png&quot; alt=&quot;Broadstone Uptown&quot; /&gt;
+    &lt;img class=&quot;no-shadow&quot; src=&quot;../img/vsv-1.jpg&quot; alt=&quot;vsv&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;no-shadow&quot; src=&quot;../img/vsv-2.jpg&quot; alt=&quot;vsv&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;no-shadow&quot; src=&quot;../img/vsv-3.jpg&quot; alt=&quot;vsv&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;no-shadow&quot; src=&quot;../img/vsv-4.jpg&quot; alt=&quot;vsv&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;no-shadow&quot; src=&quot;../img/vsv-5.jpg&quot; alt=&quot;vsv&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;no-shadow&quot; src=&quot;../img/vsv-6.jpg&quot; alt=&quot;vsv&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;no-shadow&quot; src=&quot;../img/vsv-7.jpg&quot; alt=&quot;vsv&quot; /&gt;
+&lt;/figure&gt;
+</description>
+        <pubDate>Wed, 01 Apr 2020 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/vsv</link>
+        <guid isPermaLink="true">http://localhost:4000/vsv</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Uplight</title>
+        <description>&lt;p&gt;In 2019 I had the pleasure of doing some contract work for Uplight, an energy software company in Boulder, CO. I assisted the internal design team in whatever way I was needed, creating items that ranged from complex software product mockups to simple ads for print. All designs featured different applications of Uplight’s vibrant, already-existing brand style which was so fun to work with! I’ve included a brief description of each project below.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;The logo concepts below were created for an internal branding project. Ultimately these concepts did not end up being used but I enjoyed working with the prismatic shapes and colors nonetheless!&lt;/p&gt;
+    &lt;/figcaption&gt;
+    &lt;img class=&quot;no-shadow&quot; src=&quot;../img/uplight-1.jpg&quot; alt=&quot;Uplight&quot; /&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;figcaption&gt;
-        &lt;p&gt;Below is the mood board which provided design direction for the splash page.&lt;/p&gt;
+        &lt;p&gt;I was tasked with updating the product mockups for Uplight's entire software suite. Since Uplight is a relatively new company (formed in 2019 as a merger of 6 different companies in the energy industry), the previous mockup images featured multiple different styles since they were originally taken from each legacy company. I created a new, streamlined style that could be applied to each product mockup. These designs will be used for applications such as marketing collateral and client-facing presentations.&lt;/p&gt;
     &lt;/figcaption&gt;
-    &lt;img src=&quot;../img/uptown-2.jpg&quot; alt=&quot;Broadstone Uptown&quot; /&gt;
+    &lt;img class=&quot;no-shadow&quot; src=&quot;../img/uplight-2.jpg&quot; alt=&quot;Uplight&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;no-shadow&quot; src=&quot;../img/uplight-3.jpg&quot; alt=&quot;Uplight&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;no-shadow&quot; src=&quot;../img/uplight-4.jpg&quot; alt=&quot;Uplight&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;no-shadow&quot; src=&quot;../img/uplight-5.jpg&quot; alt=&quot;Uplight&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;no-shadow&quot; src=&quot;../img/uplight-6.jpg&quot; alt=&quot;Uplight&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;no-shadow&quot; src=&quot;../img/uplight-7.jpg&quot; alt=&quot;Uplight&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;Below are some of my favorite PowerPoint slide designs, as well as an ad for print.&lt;/p&gt;
+    &lt;/figcaption&gt;
+    &lt;img class=&quot;no-shadow&quot; src=&quot;../img/uplight-8.jpg&quot; alt=&quot;Uplight&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;no-shadow&quot; src=&quot;../img/uplight-9.jpg&quot; alt=&quot;Uplight&quot; /&gt;
 &lt;/figure&gt;
 </description>
-        <pubDate>Sat, 12 Jan 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/broadstone</link>
-        <guid isPermaLink="true">http://localhost:4000/broadstone</guid>
+        <pubDate>Sun, 01 Mar 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/uplight</link>
+        <guid isPermaLink="true">http://localhost:4000/uplight</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Branded Bicycle</title>
+        <description>&lt;p&gt;St Paul Collection, a luxury apartment community located in Denver’s Cherry Creek neighborhood, came to Worboys Design with the unique idea of using branded bicycles as advertising pieces that could be placed around Cherry Creek. Worboys Design had never worked on a project quite like this before, and I had the opportunity to be the sole designer on the project. I began by finding a bike frame that could effectively emulate a luxurious, upscale look &amp;amp; feel. I then used Photoshop to mock up a design that represented the St Paul brand. I found &amp;amp; sourced a local bike vendor to do all the production work for the project - from the paint job &amp;amp; leather details the custom chain guard, signage panel, &amp;amp; crate. The finished product turned out better than my team &amp;amp; I could have imagined, and we are excited to see these bikes pop up in the Cherry Creek neighborhood. Many thanks to Ian at &lt;a href=&quot;http://whiterhinocustoms.com/&quot; target=&quot;_blank&quot;&gt;White Rhino Customs&lt;/a&gt; for his creativity and hard work to help bring this project to completion!&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;../img/brandedbicycle-1.jpg&quot; alt=&quot;brandedbicycle&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;Finished photos.&lt;/p&gt;
+    &lt;/figcaption&gt;
+    &lt;img src=&quot;../img/brandedbicycle-2.jpg&quot; alt=&quot;brandedbicycle&quot; /&gt;
+&lt;/figure&gt;
+</description>
+        <pubDate>Sat, 01 Feb 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/branded-bicycle</link>
+        <guid isPermaLink="true">http://localhost:4000/branded-bicycle</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Highland</title>
+        <description>&lt;p&gt;Highland Development Company is a real estate development group located in Denver, Colorado. When they came to Worboys Design seeking a website design, they did not have any existing site in place. This was an exciting opportunity for me to start from scratch and create something brand new for HDC.&lt;/p&gt;
+
+&lt;p&gt;I was the sole designer for this project, and my roles included project/account management, creation of designs for the new website using Sketch App, and efficient communication with the developer during production. The main goal of the website was predominantly for investors to get a good sense of HDC’s numerous accomplishments in the real estate space, while also showcasing their company vision and core values. I wrapped up the project by giving the client a tutorial on the site’s backend (based in WordPress) so they could add new projects, news articles, and copy changes themselves.&lt;/p&gt;
+
+&lt;p&gt;The website can be found at &lt;a href=&quot;http://www.highlanddevelopmentco.com&quot; target=&quot;_blank&quot;&gt;highlanddevelopmentco.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img class=&quot;no-shadow&quot; src=&quot;../img/hdc-1.jpg&quot; alt=&quot;Highland Development Co&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;no-shadow&quot; src=&quot;../img/hdc-2.jpg&quot; alt=&quot;Highland Development Co&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;no-shadow&quot; src=&quot;../img/hdc-3.jpg&quot; alt=&quot;Highland Development Co&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;no-shadow&quot; src=&quot;../img/hdc-4.jpg&quot; alt=&quot;Highland Development Co&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;no-shadow&quot; src=&quot;../img/hdc-5.jpg&quot; aalt=&quot;Highland Development Co&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;no-shadow&quot; src=&quot;../img/hdc-6.jpg&quot; alt=&quot;Highland Development Co&quot; /&gt;
+&lt;/figure&gt;
+</description>
+        <pubDate>Wed, 01 Jan 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/highland</link>
+        <guid isPermaLink="true">http://localhost:4000/highland</guid>
         
         
       </item>
@@ -60,7 +175,7 @@
     &lt;img src=&quot;../img/paigeforden-5.jpg&quot; alt=&quot;handbell&quot; /&gt;
 &lt;/figure&gt;
 </description>
-        <pubDate>Fri, 11 Jan 2019 00:00:00 -0700</pubDate>
+        <pubDate>Sun, 01 Dec 2019 00:00:00 -0700</pubDate>
         <link>http://localhost:4000/forden</link>
         <guid isPermaLink="true">http://localhost:4000/forden</guid>
         
@@ -68,135 +183,8 @@
       </item>
     
       <item>
-        <title>Vsv</title>
-        <description>&lt;p&gt;Vin Sur Vingt is a collection of authentic French Wine bars with locations throughout Manhattan, NYC - and a long-time client of Worboys Design. They came to us looking for a site refresh, as their previous site had been created quite a few years ago and was starting to feel outdated.&lt;/p&gt;
-
-&lt;p&gt;As the lead designer on this project, my role included project/account management, creation of new designs for the new website, and efficient communication with the developer during production. During the redesign, I also worked to improve the overall UX of Vin Sur Vingt’s website by revisiting the setup of the navigation, location info, and menus. Users will now easily be able to find exactly what they are looking for during their time visiting the site - whether it is a certain location’s menu/contact info, information on catering and private events, or simply to learn more about Vin Sur Vingt and its story.&lt;/p&gt;
-
-&lt;p&gt;As of April 2019, the site redesign is in the development stage, but page mockups can be found below.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img class=&quot;no-shadow&quot; src=&quot;../img/vsv-1.png&quot; alt=&quot;handbell&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/vsv-2.jpg&quot; alt=&quot;handbell&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/vsv-3.jpg&quot; alt=&quot;handbell&quot; /&gt;
-&lt;/figure&gt;
-</description>
-        <pubDate>Thu, 10 Jan 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/vsv</link>
-        <guid isPermaLink="true">http://localhost:4000/vsv</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Handbell</title>
-        <description>&lt;p&gt;In late 2018, I had the pleasure of working with the Hershey Handbell Ensemble on a freelance project to design a new logo for the PA-based organization. I created a variety of options that incorporated both a modern and a vintage feel. In the end, the client preferred the more modern, circular design. I also created a few abbreviated logo options to be used for embroidery and other smaller, less detailed items.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;figcaption&gt;
-        &lt;p&gt;Initial concepts.&lt;/p&gt;
-    &lt;/figcaption&gt;
-    &lt;img src=&quot;../img/handbell-1.jpg&quot; alt=&quot;handbell&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;figcaption&gt;
-        &lt;p&gt;Chosen option.&lt;/p&gt;
-    &lt;/figcaption&gt;
-    &lt;img src=&quot;../img/handbell-2.jpg&quot; alt=&quot;handbell&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;figcaption&gt;
-        &lt;p&gt;Alternate logo designs; chosen design shown in physical context.&lt;/p&gt;
-    &lt;/figcaption&gt;
-    &lt;img src=&quot;../img/handbell-3.jpg&quot; alt=&quot;handbell&quot; /&gt;
-&lt;/figure&gt;
-</description>
-        <pubDate>Wed, 09 Jan 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/handbell</link>
-        <guid isPermaLink="true">http://localhost:4000/handbell</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Branded Bicycle</title>
-        <description>&lt;p&gt;St Paul Collection, a luxury apartment community located in Denver’s Cherry Creek neighborhood, came to Worboys Design with the unique idea of using branded bicycles as advertising pieces that could be placed around Cherry Creek. Worboys Design had never worked on a project quite like this before, and I had the opportunity to be the sole designer on the project. I began by finding a bike frame that could effectively emulate a luxurious, upscale look &amp;amp; feel. I then used Photoshop to mock up a design that represented the St Paul brand. I found &amp;amp; sourced a local bike vendor to do all the production work for the project - from the paint job &amp;amp; leather details the custom chain guard, signage panel, &amp;amp; crate. The finished product turned out better than my team &amp;amp; I could have imagined, and we are excited to see these bikes pop up in the Cherry Creek neighborhood. Many thanks to Ian at &lt;a href=&quot;http://whiterhinocustoms.com/&quot; target=&quot;_blank&quot;&gt;White Rhino Customs&lt;/a&gt; for his creativity and hard work to help bring this project to completion!&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;../img/brandedbicycle-1.jpg&quot; alt=&quot;brandedbicycle&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;figcaption&gt;
-        &lt;p&gt;Finished photos.&lt;/p&gt;
-    &lt;/figcaption&gt;
-    &lt;img src=&quot;../img/brandedbicycle-2.jpg&quot; alt=&quot;brandedbicycle&quot; /&gt;
-&lt;/figure&gt;
-</description>
-        <pubDate>Tue, 08 Jan 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/branded-bicycle</link>
-        <guid isPermaLink="true">http://localhost:4000/branded-bicycle</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Logos</title>
-        <description>&lt;p&gt;Below are some of my favorite logo concepts that I created for clients of Worboys Design.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;../img/logos-1.jpg&quot; alt=&quot;logos&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/logos-2.jpg&quot; alt=&quot;logos&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/logos-3.jpg&quot; alt=&quot;logos&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/logos-4.jpg&quot; alt=&quot;logos&quot; /&gt;
-&lt;/figure&gt;
-</description>
-        <pubDate>Mon, 07 Jan 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/logos</link>
-        <guid isPermaLink="true">http://localhost:4000/logos</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Bantam</title>
-        <description>&lt;p&gt;The owner of Bantam Vintage Rentals was interested in a detailed, classic look for this design. I began by illustrating a hen, scanning and manipulating it into a usable digital format, and finally creating a simple but elegant logo that was centered around the illustration. Below are some examples of the logo used in various contexts.&lt;/p&gt;
-
-&lt;figure&gt;
-    &lt;img src=&quot;../img/bantam-1.jpg&quot; alt=&quot;bantam&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/bantam-2.jpg&quot; alt=&quot;bantam&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/bantam-3.jpg&quot; alt=&quot;bantam&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/bantam-4.jpg&quot; alt=&quot;bantam&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/bantam-5.jpg&quot; alt=&quot;bantam&quot; /&gt;
-&lt;/figure&gt;
-</description>
-        <pubDate>Sun, 06 Jan 2019 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/bantam</link>
-        <guid isPermaLink="true">http://localhost:4000/bantam</guid>
-        
-        
-      </item>
-    
-      <item>
         <title>Wonderwood</title>
-        <description>&lt;p&gt;The Wonderwood is a rustic lakeside lodge located in Grand Lake, Colorado. I had the pleasure of creating a logo &amp;amp; website for this beautiful alpine getaway. Once the logo design was chosen, I began designing the site. I created a design that allowed the photography of the lodge to speak for itself and create a perfect foundation for the rest of the site. Some of the website’s features include local attractions, an amenities list, photo gallery, and contact info page. I wrote all the site’s copy, and used my hand lettering skills to create a header for each interior page. I then built a responsive website using the Divi plugin on WordPress, which allows a high degree of design customization. To see the website in more detail, check out &lt;a href=&quot;http://wonderwoodgrandlake.com&quot;&gt;wonderwoodgrandlake.com&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;p&gt;The Wonderwood is a rustic lakeside lodge located in Grand Lake, Colorado. I had the pleasure of creating a logo &amp;amp; website for this beautiful alpine getaway. Once the logo design was chosen, I began designing the site. I created a design that allowed the photography of the lodge to speak for itself and create a perfect foundation for the rest of the site. Some of the website’s features include local attractions, an amenities list, photo gallery, and contact info page. I wrote all the site’s copy, and used my hand lettering skills to create a header for each interior page. I then built a responsive website using the Divi plugin on WordPress, which allows a high degree of design customization.&lt;/p&gt;
 
 &lt;figure&gt;
     &lt;figcaption&gt;
@@ -217,9 +205,33 @@
     &lt;img src=&quot;../img/wonderwood-3.jpg&quot; alt=&quot;wonderwood&quot; /&gt;
 &lt;/figure&gt;
 </description>
-        <pubDate>Sat, 05 Jan 2019 00:00:00 -0700</pubDate>
+        <pubDate>Fri, 01 Nov 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/wonderwood</link>
         <guid isPermaLink="true">http://localhost:4000/wonderwood</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Logos</title>
+        <description>&lt;p&gt;Below are some of my favorite logo concepts, showcasing a range of different styles. I am able to adapt my style to accommodate each individual client’s needs—whether it’s iconic, illustrative, or corporate. I find it enjoyable to dabble in new techniques and expand my stylistic repertoire. All concepts were created for clients of Worboys Design.&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img src=&quot;../img/logos-1.jpg&quot; alt=&quot;logos&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/logos-2.jpg&quot; alt=&quot;logos&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/logos-3.jpg&quot; alt=&quot;logos&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;../img/logos-4.jpg&quot; alt=&quot;logos&quot; /&gt;
+&lt;/figure&gt;
+</description>
+        <pubDate>Tue, 01 Oct 2019 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/logos</link>
+        <guid isPermaLink="true">http://localhost:4000/logos</guid>
         
         
       </item>
@@ -241,12 +253,6 @@
     &lt;img src=&quot;../img/invites-4.jpg&quot; alt=&quot;invites&quot; /&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-    &lt;img src=&quot;../img/invites-5.jpg&quot; alt=&quot;invites&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;../img/invites-6.jpg&quot; alt=&quot;invites&quot; /&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
     &lt;img src=&quot;../img/invites-7.jpg&quot; alt=&quot;invites&quot; /&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
@@ -262,9 +268,34 @@
     &lt;img src=&quot;../img/invites-10.jpg&quot; alt=&quot;invites&quot; /&gt;
 &lt;/figure&gt;
 </description>
-        <pubDate>Fri, 04 Jan 2019 00:00:00 -0700</pubDate>
+        <pubDate>Sun, 01 Sep 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/invites</link>
         <guid isPermaLink="true">http://localhost:4000/invites</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Broadstone</title>
+        <description>&lt;p&gt;Alliance Residential is one of Worboys Design’s largest clients, and we have partnered with them on multiple large-scale multifamily residential branding projects over the years. Broadstone Uptown is the most recent, with construction in full swing as of Spring 2019. This community will be located in the heart of Denver’s vibrant Uptown neighborhood - its interiors a fusion between two contrasting styles that both enhance and complement one another.&lt;/p&gt;
+
+&lt;p&gt;At the onset of the project, the client requested the creation of a splash page to serve as a point of contact for potential residents and a source of information regarding construction updates. Prior to this, one of my teammates at Worboys had created a mood board to serve as direction for the project’s overall look and feel. I used this as a starting point which guided the design aesthetic and color palette for the project. A feeling of modern luxury is conveyed in the design, with dueling dark &amp;amp; light sections as well as fine gold accents.&lt;/p&gt;
+
+&lt;p&gt;The splash page is live and can be found here: &lt;a href=&quot;http://www.broadstoneuptown.com&quot; target=&quot;_blank&quot;&gt;broadstoneuptown.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+    &lt;img class=&quot;no-shadow&quot; src=&quot;../img/uptown-1.png&quot; alt=&quot;Broadstone Uptown&quot; /&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;figcaption&gt;
+        &lt;p&gt;Below is the mood board which provided design direction for the splash page.&lt;/p&gt;
+    &lt;/figcaption&gt;
+    &lt;img src=&quot;../img/uptown-2.jpg&quot; alt=&quot;Broadstone Uptown&quot; /&gt;
+&lt;/figure&gt;
+</description>
+        <pubDate>Thu, 01 Aug 2019 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/broadstone</link>
+        <guid isPermaLink="true">http://localhost:4000/broadstone</guid>
         
         
       </item>
@@ -309,7 +340,7 @@
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 </description>
-        <pubDate>Thu, 03 Jan 2019 00:00:00 -0700</pubDate>
+        <pubDate>Mon, 01 Jul 2019 00:00:00 -0600</pubDate>
         <link>http://localhost:4000/dental</link>
         <guid isPermaLink="true">http://localhost:4000/dental</guid>
         

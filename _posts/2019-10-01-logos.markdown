@@ -1,0 +1,21 @@
+---
+layout: post
+name:  Logofolio
+coverImage: logos-cover.jpg
+date:   2019-10-01
+---
+
+Below are some of my favorite logo concepts, showcasing a range of different styles. I am able to adapt my style to accommodate each individual client's needs—whether it's iconic, illustrative, or corporate. I find it enjoyable to dabble in new techniques and expand my stylistic repertoire. All concepts were created for clients of Worboys Design. 
+
+<figure>
+    <img src="../img/logos-1.jpg" alt="logos" />
+</figure>
+<figure>
+    <img src="../img/logos-2.jpg" alt="logos" />
+</figure>
+<figure>
+    <img src="../img/logos-3.jpg" alt="logos" />
+</figure>
+<figure>
+    <img src="../img/logos-4.jpg" alt="logos" />
+</figure>

@@ -1,0 +1,31 @@
+---
+layout: post
+name:  Highland Development Co
+coverImage: hdc-cover.jpg
+date:   2020-01-01
+---
+
+Highland Development Company is a real estate development group located in Denver, Colorado. When they came to Worboys Design seeking a website design, they did not have any existing site in place. This was an exciting opportunity for me to start from scratch and create something brand new for HDC. 
+
+I was the sole designer for this project, and my roles included project/account management, creation of designs for the new website using Sketch App, and efficient communication with the developer during production. The main goal of the website was predominantly for investors to get a good sense of HDC's numerous accomplishments in the real estate space, while also showcasing their company vision and core values. I wrapped up the project by giving the client a tutorial on the site's backend (based in WordPress) so they could add new projects, news articles, and copy changes themselves.
+
+The website can be found at <a href="http://www.highlanddevelopmentco.com" target="_blank">highlanddevelopmentco.com</a>.
+
+<figure>
+    <img class="no-shadow" src="../img/hdc-1.jpg" alt="Highland Development Co" />
+</figure>
+<figure>
+    <img class="no-shadow" src="../img/hdc-2.jpg" alt="Highland Development Co" />
+</figure>
+<figure>
+    <img class="no-shadow" src="../img/hdc-3.jpg" alt="Highland Development Co" />
+</figure>
+<figure>
+    <img class="no-shadow" src="../img/hdc-4.jpg" alt="Highland Development Co" />
+</figure>
+<figure>
+    <img class="no-shadow" src="../img/hdc-5.jpg" aalt="Highland Development Co" />
+</figure>
+<figure>
+    <img class="no-shadow" src="../img/hdc-6.jpg" alt="Highland Development Co" />
+</figure>
